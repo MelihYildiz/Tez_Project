@@ -8,7 +8,7 @@ from lang_detect import is_english  # Dil tespiti fonksiyonu
 from sentiment_analysis import youtube_sentiment_analysis  # Duygu analizi fonksiyonu
 
 # API anahtarınızı ve video ID'sini burada belirtin
-API_KEY = "AIzaSyCN-uoMzuEhIxQ5lGyXmb8SZ1NxT5zofI0"  # Google Cloud Console'dan alınan API anahtarı
+API_KEY = "AIzaSyBwwuw4D_3rRzDIpEPNWakn9JY6I4dh2_g"  # Google Cloud Console'dan alınan API anahtarı
 video_ids = ["j3w8-d_fnqE"]  # Çekmek istediğiniz video ID'leri
 
 # Video başlıklarını çeker
@@ -62,6 +62,21 @@ def sanitize_filename(filename):
     invalid_chars = r'[<>:"/\\|?*]'
     return re.sub(invalid_chars, "_", filename)
 
+# Klasörde dosya kaydetme fonksiyonu
+def save_json_to_folder(data, filename, folder):
+    # Klasör yoksa oluştur
+    if not os.path.exists(folder):
+        os.makedirs(folder)
+
+    # Dosya yolunu oluştur
+    filepath = os.path.join(folder, filename)
+
+    # JSON verisini kaydet
+    with open(filepath, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+    print(f"Saved to {filepath}")
+
 # Bir video için yorumları işler ve kaydeder
 def process_video(video_id, api_key):
     try:
@@ -81,10 +96,10 @@ def process_video(video_id, api_key):
 
             # Elenen yorumları json olarak kaydet
             removed_output_file = f"removed_comments_{sanitize_filename(title)}.json"
-            with open(removed_output_file, 'w', encoding='utf-8') as f:
-                json.dump(removed_comments, f, ensure_ascii=False, indent=2)
+            save_json_to_folder(removed_comments, removed_output_file, "removed_comments")
 
             unique_comments = remove_duplicates(cleaned_comments, f"unique_comments_{sanitize_filename(title)}.json")
+            save_json_to_folder(unique_comments, f"unique_comments_{sanitize_filename(title)}.json", "unique_comments")
 
             english_comments = [comment for comment in unique_comments if is_english(comment)]
 
@@ -92,8 +107,7 @@ def process_video(video_id, api_key):
                                   "sentiment": youtube_sentiment_analysis(comment)[1]} for comment in english_comments]
 
             sentiment_output_file = f"sentiment_analysis_{sanitize_filename(title)}.json"
-            with open(sentiment_output_file, 'w', encoding='utf-8') as outfile:
-                json.dump(sentiment_results, outfile, ensure_ascii=False, indent=4)
+            save_json_to_folder(sentiment_results, sentiment_output_file, "sentiment_analysis")
 
             # Sayım işlemleri
             positive_count = sum(1 for result in sentiment_results if result["sentiment"] == "positive")
@@ -105,8 +119,8 @@ def process_video(video_id, api_key):
             print(f"  Clean comments: {len(cleaned_comments)}")
             print(f"  Unique comments: {len(unique_comments)}")
             print(f"  English comments: {len(english_comments)}")
-            print(f"  Sentiment analysis saved to '{sentiment_output_file}'")
-            print(f"  Removed comments saved to '{removed_output_file}'")
+            print(f"  Sentiment analysis saved to 'sentiment_analysis/{sentiment_output_file}'")
+            print(f"  Removed comments saved to 'removed_comments/{removed_output_file}'")
             print(f"  Positive comments: {positive_count}")
             print(f"  Negative comments: {negative_count}")
             print(f"  Neutral comments: {neutral_count}")

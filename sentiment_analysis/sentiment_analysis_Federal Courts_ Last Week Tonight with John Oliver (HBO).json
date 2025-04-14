@@ -141,8 +141,8 @@
     },
     {
         "comment": "What if it&#39;s just Elon trolling?",
-        "sentiment_score": 0.0,
-        "sentiment": "neutral"
+        "sentiment_score": -0.3,
+        "sentiment": "negative"
     },
     {
         "comment": "Probably one of the most American things I have ever seen.",
@@ -166,6 +166,11 @@
     },
     {
         "comment": "Why aren&#39;t scientists ruling.",
+        "sentiment_score": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "comment": "You can&#39;t just be called Leo Leo.",
         "sentiment_score": 0.0,
         "sentiment": "neutral"
     },
@@ -2280,6 +2285,11 @@
         "sentiment": "positive"
     },
     {
+        "comment": "Kuhic Locks",
+        "sentiment_score": 0.0,
+        "sentiment": "neutral"
+    },
+    {
         "comment": "Was waiting for the anti-Trump messages to start popping out.  Why can&#39;t comedians just stick to comedy instead of getting on their soapbox?  &lt;sigh&gt;...",
         "sentiment_score": 0.0,
         "sentiment": "neutral"
@@ -2503,6 +2513,11 @@
         "comment": "You would think with all the things in the news where Biden was literally forced off the ballot and Kamala put on with no actual vote. Maybe John would talk about it but no, let’s just continue to find ways to go after Trump.",
         "sentiment_score": -0.15000000000000002,
         "sentiment": "negative"
+    },
+    {
+        "comment": "Predovic Tunnel",
+        "sentiment_score": 0.0,
+        "sentiment": "neutral"
     },
     {
         "comment": "Americans will someday understand that there is no democracy in the country. By then it will be too late to do anything.",
@@ -2938,11 +2953,6 @@
         "comment": "And &quot;personal opinion&quot; will often not uust mean incomptent people deciding randomly but literal corruption instead.",
         "sentiment_score": -0.40625,
         "sentiment": "negative"
-    },
-    {
-        "comment": "EVIL  CAN  ONLY   WIN WHEN ONE GOOD PERS0N TURN ASIDE.",
-        "sentiment_score": 0.425,
-        "sentiment": "positive"
     },
     {
         "comment": "Trump delivering on his promises. Trump 2024 it is then. Thanks Oliver.",
@@ -3855,6 +3865,11 @@
         "sentiment": "positive"
     },
     {
+        "comment": "LMAO no wonder why Trump like dictators",
+        "sentiment_score": 0.6,
+        "sentiment": "positive"
+    },
+    {
         "comment": "That’s how nations fall",
         "sentiment_score": 0.0,
         "sentiment": "neutral"
@@ -4465,11 +4480,6 @@
         "sentiment": "neutral"
     },
     {
-        "comment": "Its like hydra taking over shield.",
-        "sentiment_score": 0.0,
-        "sentiment": "neutral"
-    },
-    {
         "comment": "I Love his constant criticisms of the systems of a country that has allowed him the success and income that he never had or could ever attain in his home country.",
         "sentiment_score": 0.26666666666666666,
         "sentiment": "positive"
@@ -4706,6 +4716,11 @@
     },
     {
         "comment": "If you want more information on the legality of chevron, Hoeg Law did an overview of it",
+        "sentiment_score": 0.5,
+        "sentiment": "positive"
+    },
+    {
+        "comment": "Thanks",
         "sentiment_score": 0.5,
         "sentiment": "positive"
     },
@@ -5610,6 +5625,11 @@
         "sentiment": "negative"
     },
     {
+        "comment": "Thanks John, vote Blue,",
+        "sentiment_score": 0.4,
+        "sentiment": "positive"
+    },
+    {
         "comment": "With the rejection of the Chevron doctrine, Lunchables will eventually have exactly that warning😢😢",
         "sentiment_score": 0.25,
         "sentiment": "positive"
@@ -5997,11 +6017,6 @@
     {
         "comment": "It’s sad that the federal courts have lost their legitimacy. Trump destroyed us.",
         "sentiment_score": -0.5,
-        "sentiment": "negative"
-    },
-    {
-        "comment": "Just vote, y’all… like, seriously",
-        "sentiment_score": -0.3333333333333333,
         "sentiment": "negative"
     },
     {
@@ -6823,11 +6838,6 @@
         "comment": "McConnell should be in prison and punished harshly.",
         "sentiment_score": -0.2,
         "sentiment": "negative"
-    },
-    {
-        "comment": "Never forget Kavanaugh&#39;s tears!😂",
-        "sentiment_score": 0.0,
-        "sentiment": "neutral"
     },
     {
         "comment": "Forum shopping is an issue on both sides and needs to be reformed. This is one of the most biased episodes you guys have done. You don&#39;t mention the many cases the Supreme Court has recently decided for the more &quot;liberal&quot; side.  Rahimi, Jarkesy, CPB, and others.",
@@ -7835,6 +7845,11 @@
         "sentiment": "neutral"
     },
     {
+        "comment": "Trump Derangement Syndrome in full effect 🙄",
+        "sentiment_score": 0.35,
+        "sentiment": "positive"
+    },
+    {
         "comment": "I don&#39;t know why I expected Steve Buscemi to come out in a tomato costume at the end regardless, but I was a bit disappointed he didn&#39;t.",
         "sentiment_score": -0.425,
         "sentiment": "negative"
@@ -8015,11 +8030,6 @@
         "sentiment": "positive"
     },
     {
-        "comment": "Remove corrupt judges pelican brief style",
-        "sentiment_score": -0.25,
-        "sentiment": "negative"
-    },
-    {
         "comment": "Jim Jordan is still an a$$ and an embarrassment...",
         "sentiment_score": 0.0,
         "sentiment": "neutral"
@@ -8081,6 +8091,11 @@
     },
     {
         "comment": "The mattress tag non-removal law only applies to the manufacturer.  It says on the tag: &quot;Not to be removed  EXCEPT BY THE CONSUMER&quot;...",
+        "sentiment_score": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "comment": "powell memo",
         "sentiment_score": 0.0,
         "sentiment": "neutral"
     },
@@ -8253,6 +8268,11 @@
         "comment": "Is anyone old as me notice deregulation broke the prevailing winds that used to blow west to east with cold air coming down to join it through Chicago the windy city? Anyone my age realize these hurricanes are forming in the wrong place. For scale the only force strong enough to do that besides climate change would be gravity of something else massive and close 🤔 😉 <br>They may have screwed all our grandkids and us cause the science says within 10 years we will see 120 degree summer norms and 130 heatwaves not just in the valley but im a lot of states. The ones responsible got enough money to leave us on the surface while they go underground 🚇 😒 they all got bunkers and they say its 4 unrest but i wonder 🤔",
         "sentiment_score": -0.05222222222222221,
         "sentiment": "negative"
+    },
+    {
+        "comment": "I am depressed.",
+        "sentiment_score": 0.0,
+        "sentiment": "neutral"
     },
     {
         "comment": "If it the election are so crucial why are the dems pushing kamala....an unlikable candidate. Seems to me like thet are digging their own grave",
@@ -9170,11 +9190,6 @@
         "sentiment": "negative"
     },
     {
-        "comment": "Jim Jordan is such a weenie",
-        "sentiment_score": 0.0,
-        "sentiment": "neutral"
-    },
-    {
         "comment": "The Justice System is already bought, John!<br>While liberals and moderates were wondering if they should vote for Gore or Nader, and now, whether they should show up for Kamala, considering Biden&#39;s Israel stance (to try to get Israel to moderate its behavior, while still supporting it), the Right has stayed focused like a laser on the need to control the courts. <br>Rich people have already won! Now, we&#39;re still confused about whether we left-leaning and moderate people should even vote, because it would be way better for Trans, immigrants and Palestinians if we didn&#39;t support Kamala and let the troglodytes get complete control of our government forever.<br>We&#39;ve already LOST, JOHN!!!",
         "sentiment_score": 0.12892219387755102,
         "sentiment": "positive"
@@ -9678,11 +9693,6 @@
         "comment": "Mitch McConnell needs to head towards the light..",
         "sentiment_score": 0.4,
         "sentiment": "positive"
-    },
-    {
-        "comment": "I’m on a toilet rn",
-        "sentiment_score": -0.03333333333333333,
-        "sentiment": "negative"
     },
     {
         "comment": "Honestly, you have to give conservatives credit for having a game plan and being patient enough to bring it to fruition. Perhaps if liberals and progressives were of similar nature, they could manifest similar results. All I see so often on the left is tribalism and an inability to get most or all of their rank and file on the same sheet of music. It’s unfortunate, so get yourselves together Dems, and notch some wins.!!",
@@ -10887,11 +10897,6 @@
     {
         "comment": "The timing of this is amazing 😭😭🙏🏾",
         "sentiment_score": 0.9000000000000001,
-        "sentiment": "positive"
-    },
-    {
-        "comment": "great stuff",
-        "sentiment_score": 1.1,
         "sentiment": "positive"
     },
     {
