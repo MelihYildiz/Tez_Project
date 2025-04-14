@@ -1,0 +1,716 @@
+[
+  {
+    "comment": "i&#39;m pretty sure you have to stop for an accident in europe, even just as a witness. i get it though, in the US people have weapons on them and you don&#39;t know what&#39;s up.",
+    "textblob_score": 0.375,
+    "textblob_sentiment": "positive",
+    "vader_score": -0.4019,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "we really need a word for when the radio/music lines up really well with the footage 🤣",
+    "textblob_score": 0.2,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6801,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Apparently just having a Driver&#39;s License doesn&#39;t mean anything anymore.   These videos make me want to live in a country where there are only bicycles.  And pedestrians lol.    Cars are DEADLY WEAPONS and most forget this sobering fact.   STAY ON YOUR MEDS!   Jeez.  :)",
+    "textblob_score": 0.19985795454545455,
+    "textblob_sentiment": "positive",
+    "vader_score": -0.3286,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Clip #1: How does that even happen?",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "What The #######",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "some of these guys dont even care they just crahsed lol",
+    "textblob_score": 0.8,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.0444,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Just being a human here but the 3rd clip, the truck showed left turn signals indicating he&#39;ll be moving to the left lane, the driver behind him knew that so should&#39;ve slowed a little- but down,  Idk how mph he was doing so that&#39;s just my pov. Am I wrong?",
+    "textblob_score": -0.15538194444444445,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.6547,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "If you do not have to be out, do not drive on icy/snow-covered roadways. If you have to, drive very slowly and limit hard breaking.",
+    "textblob_score": -0.3408333333333334,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.1027,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Remember kids, if the car keeps going faster no matter how hard you&#39;re stepping on the brake.... you&#39;re not stepping on the brake.",
+    "textblob_score": -0.2916666666666667,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.1215,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "2nd clip it took the guy 3 business days to realise the car in front was stopped",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": -0.2263,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "It never ceases to amaze me Americans have the easiest road conditions to deal with and yet constantly seem to run into each other",
+    "textblob_score": -0.0625,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.0129,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "america is the easiest country to drive in. meaning those people are beyond restarted",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.4215,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "love how so many witness the accident and don&#39;t stop to see if they&#39;re o.k.",
+    "textblob_score": 0.5,
+    "textblob_sentiment": "positive",
+    "vader_score": -0.0258,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "I love the end it sounds like a song &quot;You caught that, too&quot; &quot;I did&quot;. Just the way they say it is satisfying.",
+    "textblob_score": 0.5,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8658,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Some of these might be depression idk",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": -0.6249,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Some of these people need permanent license suspension with no hope of recovery lmao",
+    "textblob_score": 0.6,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.3599,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "man am I glad, that in germany we got a real driving school.",
+    "textblob_score": 0.35,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4588,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Oh my god, the first thing you say when you see or have an accident 😂",
+    "textblob_score": 0.25,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.2263,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I&#39;m constantly amazed at people who don&#39;t understant &quot;inertia&quot; (you can&#39;t stop instantly)or &quot;friction&quot; (ice is slippery).",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.25,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Half of these crashes are in the snow. All cars aren’t 4WD and AWD. Even AWD and 4WD cars can slide.",
+    "textblob_score": -0.16666666666666666,
+    "textblob_sentiment": "negative",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "You people are doing 55 mph on snowy roads?!",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "where can I submit a clip XD got a good one a guy just turned right into a semi truck beside him",
+    "textblob_score": 0.7928571428571428,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8143,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "0.11 - A flying shovel !",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "the songs slap. which makes me nervous cause i listen to these",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": -0.128,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "first clip is from grand rapids, michigan....that stretch of highway is dangerous",
+    "textblob_score": 0.05000000000000001,
+    "textblob_sentiment": "neutral",
+    "vader_score": -0.0258,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "I’ve been driving in Minnesota winters for 26 years now and never once have I just lost control of my vehicle. It’s not that hard to just slow down and pay attention and be cognizant of the fact that the roads are slippery and you can’t drive like a retard.",
+    "textblob_score": -0.4118055555555556,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.5113,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Guys. The person who went flying while hitting alot of metal ISNT OK.",
+    "textblob_score": 0.5,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Yes keep using your phone while driving !",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.4574,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Videos out of 2025 but quality like 1950",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.5023,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I wish you a lot of luck on the road.  Please obey traffic laws",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.7906,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I think they got their driving license from the bakery",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Bad drivers never miss their turn/exit.",
+    "textblob_score": -0.9999999999999998,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.4689,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Gotta love people who honk instead of slowing down.",
+    "textblob_score": 0.17222222222222222,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6369,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "The girl arguing with her boyfriend to stop stop stop, boyfriend was right. Too dangerous to stop there and guy who crashed is probably dead.",
+    "textblob_score": -0.1714285714285714,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.9531,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "I live near I 196 it seems to be on the outskirts of Grand Rapids",
+    "textblob_score": 0.24545454545454545,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4588,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "The thumbnail sums up what happens when you take down cars in 2010-Present day NFS games.",
+    "textblob_score": -0.15555555555555556,
+    "textblob_sentiment": "negative",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "And someone hit my vents in the New Years",
+    "textblob_score": 0.13636363636363635,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "My dad goes on 70 in the highway and I get scared as freak",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": -0.7003,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "The bar to get your license is far too low.",
+    "textblob_score": 0.05,
+    "textblob_sentiment": "neutral",
+    "vader_score": -0.2732,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Americans aren’t much good at most things so why should driving be any different?",
+    "textblob_score": 0.7,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4404,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "SUVs. Its always SUVs. Theyre always driven by the most selfish people trying to compensate for their teeny tiny phalluses",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": -0.5256,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "You know it&#39;s in england since they speak Arabic.",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Quite a few grads of the Russian version of Driver&#39;s-Ed, I see...",
+    "textblob_score": -0.1,
+    "textblob_sentiment": "negative",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "That truck in the second clip must&#39;ve had nefarious/deceptive tendencies to over exaggerate what happened. It&#39;s a good thing there was a dashcam recording",
+    "textblob_score": 0.6499999999999999,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.3182,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "FedEx Express has really lowered their standards. Way to go, Raj!",
+    "textblob_score": 0.25,
+    "textblob_sentiment": "positive",
+    "vader_score": -0.2698,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "It ain&#39;t got no gas in it",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": -0.296,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Second clip, the camera said he was doing 80, the speed limit sign he pass 5 seconds in said 60. <br>The whole thing was the drivers fault.",
+    "textblob_score": 0.1,
+    "textblob_sentiment": "neutral",
+    "vader_score": -0.4019,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "And this is why driving should be a privilige not a right and you need to meet high standards to get a drivers licence.",
+    "textblob_score": 0.008571428571428577,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Men im confused. There are alot of  new channels that copy your content! Dude this is unfair",
+    "textblob_score": -0.2431818181818182,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.69,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "person in the second clip was definitely distracted or else they would’ve noticed the car earlier",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0772,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "All cars should have mandatory dash cams installed from the factory.",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0772,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "What’s up with Rocky Ridge Road ?!?",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "I&#39;m really surprised. As the police are very strict, I really thought that this kind of thing could NOT happen in the USA :-o",
+    "textblob_score": 0.23000000000000004,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.3167,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "This stuff is sheer comedy. 🍿😎",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.6705,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Every thing is oh my God what is this obsession?",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": -0.1655,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Americans really should stop doing physics experiments with their cars on public roads.",
+    "textblob_score": 0.1,
+    "textblob_sentiment": "neutral",
+    "vader_score": -0.3566,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "The first one looks like a frontwheel puncture.",
+    "textblob_score": 0.25,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.3612,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I can see that driving in a straight line can be a problem...",
+    "textblob_score": 0.2,
+    "textblob_sentiment": "positive",
+    "vader_score": -0.2023,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "It is extremely disappointing that only a small number of the clips showed people helping the victims.",
+    "textblob_score": -0.5833333333333333,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.5095,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "The thumbnail 💀",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "It seems like some of the clips are because the pot holes in the roads are so bad which is crazy.",
+    "textblob_score": -0.95,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.6588,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "I always ask myself is the Road going to be okay.",
+    "textblob_score": 0.5,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.2263,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Some of these are just people making mistakes... its gonna happen.",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": -0.3612,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Just the way I like my videos, no commentary and no &quot;funny&quot; added sound effects.",
+    "textblob_score": 0.4,
+    "textblob_sentiment": "positive",
+    "vader_score": -0.2263,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "At :32 that CraneWorks driver is going to get that company some nightmare advertising!<br>Holy SHYT.",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "I’ve been driving in the snow for 2 years and these people are ridiculous. I spent 2 whole days learning how to drive and knowing what to do when I slip in a parking lot. 16 hours and $30 of gas. Just learn",
+    "textblob_score": -0.07777777777777778,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.3612,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "People drive fast in the snow because tow truck drivers need income.",
+    "textblob_score": 0.2,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "I just want to say Thank You!, for not having a bunch of text on the screen explaining each and every clip, like so many channels now do. I was beginning to think it was a new requirement fr these videos. I can understand, sometimes. But most of the time, the clip speaks for itself.",
+    "textblob_score": 0.37878787878787873,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4482,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Why would you use a ramp as a highway divider?",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "fawking retords. whole video",
+    "textblob_score": 0.2,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "I like how the dude in the second video is so oblivious to his surroundings that he both doesn’t notice a wrong-way driver AND he almost rear ends the car in front of him!",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.4199,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I see you changed the channel name back from &quot;Americans In Cars&quot;. Good.",
+    "textblob_score": 0.6499999999999999,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4404,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Too many people make wide turns way too often. I’ve almost been hit twice waiting at a stop sign because people are so used to it.",
+    "textblob_score": 0.2,
+    "textblob_sentiment": "positive",
+    "vader_score": -0.296,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Why does the horn always come before brakes?",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Why don&#39;t people use their brakes?",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "It seems to me, that in the US people are generally unfamiliar with snow tyres.",
+    "textblob_score": 0.05000000000000002,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Some impressive acrobatics in this one!",
+    "textblob_score": 1.0,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.5562,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "&quot;Rocky Ridge Road&quot; is called that for a reason.",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "8 min is too short, please make the longer than 15 min. Thank you 4 everything",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.5859,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "The one thing this shows is... <br><br>Is that in Magalouts America... If you witness a severe accident, you just power down and drive away without offering any type of help.",
+    "textblob_score": -0.15555555555555556,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.4588,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "I never understood why so many people leave the scene. Man tf up. You made a mistake, deal with it. There&#39;s no point in compounding your problems.",
+    "textblob_score": 0.5,
+    "textblob_sentiment": "positive",
+    "vader_score": -0.7759,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Great videos. And no commentary. You&#39;re a chad",
+    "textblob_score": 1.1,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4404,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Dashcams are proof that some people are out here driving like it&#39;s their first day on Earth.",
+    "textblob_score": 0.25,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.3612,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Rocky Ridge is right!",
+    "textblob_score": 0.3571428571428571,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "2nd one so much went wrong",
+    "textblob_score": -0.09999999999999999,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.5209,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "So good I went back to the start and watched it again!",
+    "textblob_score": 0.6499999999999999,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.54,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "This channel is the best of its kind on YT. Well done, and thank you.",
+    "textblob_score": 0.8,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9042,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Hey, thumbnail actually here, not clickbait!",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "i love when its winter time, you see all the snow start appearing in these videos. it reminds me that we&#39;re all in this together haha",
+    "textblob_score": 0.35,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.802,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "We&#39;re going to get to a point were people are going to have to have drivers road tests every 4 years, and every 2 years for those over 65 and a cut off age for driving at 70 at the rate we&#39;re going.",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": -0.2732,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Again a nice collection. Keep on with your work!",
+    "textblob_score": 0.75,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4753,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "That second guy needs his license revoked and his ass kicked.<br><br>80 mph in a 60mph zone NOT paying attention to the road more than 50ft ahead.",
+    "textblob_score": 0.25,
+    "textblob_sentiment": "positive",
+    "vader_score": -0.5423,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "eventually, new videos of crashes will become rare and cease altogether as various sensors are regulatorily enforced in new car models.",
+    "textblob_score": 0.1431818181818182,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "So many wild crashes in this one! Most of them were straight out of a movie!",
+    "textblob_score": 0.34375,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.3578,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "WTF is wrong with people 😮",
+    "textblob_score": -0.5,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.824,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Don’t let domesticated Americans out in the wild traffic during winter; it’s too dangerous for all.",
+    "textblob_score": -0.25,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.4767,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "No one hit the brakes. Everything will be fine!",
+    "textblob_score": 0.5208333333333334,
+    "textblob_sentiment": "positive",
+    "vader_score": -0.1759,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "proper muppet city going on in this one.",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "1st one looks like a blown tire",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.3612,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "guys, plz check you tires in witer, M+S is not snow proof",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0772,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "#2 is wild because how tf do you not see the guy flying over and hit your brakes? <br><br>Merger dude literally just kept on strolling like nothing was happening 😊",
+    "textblob_score": 0.1,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.4624,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "What compels people to want to turn suddenly?",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0772,
+    "vader_sentiment": "positive"
+  }
+]

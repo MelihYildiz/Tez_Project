@@ -10,7 +10,4 @@ def remove_duplicates(comments, output_file):
             unique_comments.append(comment)
             seen_comments.add(comment.lower())
 
-    # Benzersiz yorumları dosyaya kaydet
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(unique_comments, f, ensure_ascii=False, indent=4)
     return unique_comments  # Benzersiz yorumları döndür
