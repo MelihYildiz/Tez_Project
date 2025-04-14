@@ -1,0 +1,8 @@
+2025-01-10 11:34:08,974 - INFO - Fetching title for video ID: 8HU7cWCxRfg
+2025-01-10 11:34:09,179 - INFO - Fetched title: Chester Charles Bennington: The Best Vocals
+2025-01-10 11:34:09,179 - INFO - Fetching comments for video ID: 8HU7cWCxRfg
+2025-01-10 11:34:11,355 - INFO - Fetched 739 comments for video ID: 8HU7cWCxRfg
+2025-01-10 11:34:12,221 - INFO - Processed video: Chester Charles Bennington: The Best Vocals
+2025-01-10 11:34:12,221 - INFO - Total comments: 100, Cleaned: 222, Unique: 222, English: 161
+2025-01-10 11:34:12,222 - INFO - Sentiment analysis results saved to 'sentiment_analysis_Chester Charles Bennington_ The Best Vocals.json'
+2025-01-10 11:34:12,222 - INFO - All videos processed successfully.
