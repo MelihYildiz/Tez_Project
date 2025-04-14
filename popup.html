@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>YouTube Comment Analyzer</title>
+    <style>
+        body {
+            width: 300px;
+            font-family: Arial;
+            padding: 10px;
+        }
+        button {
+            width: 100%;
+            margin-bottom: 10px;
+            padding: 8px;
+        }
+    </style>
+</head>
+<body>
+<h3>YouTube Analyzer</h3>
+<button id="analyzeBtn">Analyze Current Tab</button>
+<canvas id="sentimentChart" width="250" height="250"></canvas>
+<pre id="result">Waiting...</pre>
+
+<!-- Chart.js IIFE version -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<script type="module" src="popup.js"></script>
+</body>
+</html>
