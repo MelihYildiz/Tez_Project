@@ -1,0 +1,2564 @@
+[
+  {
+    "comment": "This is exactly what I need for now! I’m practicing everyday but without a teacher, it’s tough. Thank you for making free videos for people like me.",
+    "textblob_score": 0.03090277777777778,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.8883,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I noticed you mentioned the Nanofoamer. What do you think of it? I usually just foam my milk, and that&#39;s it - no foam art. I was annoyed by how much time the Nanofoamer needs to foam the milk compared to the cheap IKEA alternative I went back to. At some point, I thought that maybe it works worse because of the oat milk. But now, after listening about the right foam and milk balances, maybe it does exactly what it is supposed to do, and I&#39;m just impatient?",
+    "textblob_score": -0.012698412698412702,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.7657,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Well sir, I have a problem ?<br>I&#39;m making the foam using a French press. For the past year whenever I&#39;m done with pumping, I pure the milk into the pitcher, and I mix it.<br>However even after the mixing, it seems like the foam is still sitting back. I never managed to get a good consistency for late art.<br>I use 150 ml of full fat milk (3,5% at least) for one cappuccino. And now I wonder... Is the issue in my French press that has 600 ml capacity ? Is it too pig to properly froth the milk ?<br>Or is it possible that somethings off with the barista pitcher I use ?<br>Or is it really just the fact that I&#39;m mostly using a milk from marketplace ?",
+    "textblob_score": 0.3857142857142857,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6966,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Love this video, comprehensive and easy to understand, I&#39;d definitely try to apply it myself as I train. Been slowly getting more consistent with the Heart pattern recently, but I think I&#39;ll attempt Rosetta and Tulips next time after watching this!",
+    "textblob_score": 0.17291666666666666,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8313,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I wish everyone on youtube would take their video creation as seriously as you do",
+    "textblob_score": -0.3333333333333333,
+    "textblob_sentiment": "negative",
+    "vader_score": 0.4767,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Thank you so much!  I&#39;ve learned a latte!",
+    "textblob_score": 0.3125,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4738,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Very helpful. Thank you James.",
+    "textblob_score": 0.2,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.707,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "james hoffman you should make a video where you make a cup of coffee using every method possible as quickly as you can. for example, one cup using pour over, moka pot, french press, aeropress, etc. and just make a cup for each method and see how fast you can do it",
+    "textblob_score": 0.13333333333333333,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "this is the most helpful video yet! Very informative. Definitely the most productive 40 mins I spend today 😂",
+    "textblob_score": 0.33125,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8505,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Those who can&#39;t MERELY do, teach. (:",
+    "textblob_score": -0.5,
+    "textblob_sentiment": "negative",
+    "vader_score": 0.4939,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "What size jug are you using when you discuss these approx 13.5 mins into the video please?",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.3182,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I only drink black coffee at home, but it’s still nice to listen to James.",
+    "textblob_score": 0.14444444444444446,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.5719,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Really good advice delivered well. Thanks James.",
+    "textblob_score": 1.05,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8016,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "My Rancilio Silvia Pro X comes with a 3-hole steam tip and I am having difficulties getting a nice foam even with a milk thermometre, any help?",
+    "textblob_score": 0.6,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.5106,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Golden Brown Coffee actually offered a tip for this which was to pour regular latte art and then put it back in the jug, steam it again, and sprinkle the top with cocoa powder and it will allow you to have a very similar texture and let you reuse your coffee. I’ve never tried it, mind, but it is out there as an option",
+    "textblob_score": 0.13333333333333333,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.2144,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I couldn&#39;t find this level of details and explanation anywhere else! And I looked quite a bit! I almost gave up and then this came. Thank you so much for this!",
+    "textblob_score": 0.25,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.5229,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Your timing could not be better, started 2 weeks ago with espresso making and was having a lot of trouble getting latte art started!",
+    "textblob_score": 0.125,
+    "textblob_sentiment": "positive",
+    "vader_score": -0.6595,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Completely unrelated: but anyone coffee farm visiting recommendations for Boquette, Panama or Costa Rica? Will be visiting there in may! Thanks you :)",
+    "textblob_score": 0.575,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8459,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I’ve been hoping for a troubleshooting type video for a long time. Emilee did a series rating her viewers latte art, but I’m sure it didn’t do as well for the algorithm to sustainably keep releasing. So thank you Jamss for ultimately making the video I’ve been seeking while balancing entertainment and education as always.",
+    "textblob_score": 0.15,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9424,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Still struggling timing that last bit of milk to form the shape I&#39;m trying to make. Great video though!",
+    "textblob_score": 0.8,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.3802,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I&#39;m glad you mentioned about taking your time to steam milk! My Morning Dream steams milk in about 20-30 seconds and its super manageable to steam milk. I&#39;ve tried using a commercial machine and its just too fast for my skill level",
+    "textblob_score": 0.2895833333333333,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8478,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "A latte art video from James?! WOOO",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Im not versed enough to be here. Need a 101 before this 301",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "So many revelations in this. Thank you.",
+    "textblob_score": 0.5,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4357,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Finally ONE video that helps me understand, pin point, and address how to get to amazing latte art! Can&#39;t express how much I enjoy and love seeing James&#39; videos.",
+    "textblob_score": 0.7125,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9336,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "What about the snail? Do a snail, Dad!",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "James, I can&#39;t tell you how useful this is for me. I have recently gotten into Latte Art and would appreciate some coffee for practice if there are any left. Regardless, I will be watching this video a few times and practicing tonight. Cheers, Shawn",
+    "textblob_score": 0.024999999999999994,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.8271,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Even after just one attempt, my milk is appearing so much better now after learning to pour faster. Thank you, great video and explanations!",
+    "textblob_score": 1.05,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.877,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Good tips",
+    "textblob_score": 1.0,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4404,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "At 1am - latte art master class? hell yeaah!",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": -0.7088,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "good tips, excited to try!",
+    "textblob_score": 0.8843749999999999,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.68,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Can I apply these tips to a french press frothed milk which I pour onto my Moka Pot espresso style drink(which would be around 100 ml since that&#39;s the only size of Moka Pot I have), only asking cause I do not drink espresso drinks at all but I do enjoy latte art, this would purely be for fun.",
+    "textblob_score": 0.1523809523809524,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8792,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "@james you&#39;re always looking for new topics for videos. Can you do a video on anaerobic robusta coffee? I&#39;ve just been on a coffee&amp;wine pairing and the roaster is working on this but mentioning it&#39;s quite innovative and new in the coffee world",
+    "textblob_score": 0.25757575757575757,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6474,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Thank you for this, James.... This is exactly the amount of depth and detail my adhd brain needed. I&#39;ve been failing to make anything more than a tiny heart for the longest time..<br>I now have the over-abundance of info I needed to do it right. I really appreciate your work. I can&#39;t imagine how many takes and effort a video like this requires but it truly helps!!!",
+    "textblob_score": 0.3687127976190476,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8878,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Very helpful James, thank you!",
+    "textblob_score": 0.25,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.731,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Incredibly helpful! ✌️😃☕️✨",
+    "textblob_score": 1.0,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8012,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I don’t mind a fat line ❄️",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "I have a unique problem where I do my latte art following the curve of the cup, like around half of the cup. I do little dots, then pull through and it looks like a tulip... Kind of. For some reason I&#39;ve tried and tried and I&#39;m struggling to get my art in the middle of the cup 😅😅 I think a lot of these tips will help! Thanks again James for the awesome content!!!",
+    "textblob_score": 0.8276041666666667,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9569,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "This is the video we’ve been waiting for you to release for years!!!!",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Does anyone have the discord link?",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": -0.4019,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Always great videos! I’m not great at this, but I’ve not seen much emphasis on the shape of the cup and whether that has a big influence on the roundness of the shape poured. I don’t have rounded ‘cappuccino’ style cups, only straight sided mugs, and notice my rosettas are much thinner/pointed no matter how well I’ve steamed and poured. Wonder whether this is another point to consider/or whether I’m just not yet good enough 😂 ????",
+    "textblob_score": 0.41111111111111104,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8066,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Great video.  Will try some of your suggestions.  Thank you.",
+    "textblob_score": 1.1,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.765,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Wow - the best explanation ever (I believe GOAT is the popular term).  But we would expect no less from James :)",
+    "textblob_score": 0.45666666666666667,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.772,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "So many years listening to James, still awed by his communication skills how he articulates concepts through so easily and everything makes sense. Not only he understood his skillsets, he understood his audiences.",
+    "textblob_score": 0.3111111111111111,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4795,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Thanks for this video! It helped me diagnose a few mistakes i couldn&#39;t identify from watching other videos :)<br><br>Do you have any tips on working with UHT? How long does it retain that mixed glossiness compared to regular and skim?<br><br>At home, we sometimes alternate between HiLo (basically Western Australian skim) and either UHT or regular.",
+    "textblob_score": 0.3340909090909091,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.2621,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "James&#39; ability to present information in a way that makes it easy to digest is second to none!",
+    "textblob_score": 0.14444444444444446,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6696,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "This was so so great!! Thank you so much!! I learned so much from this!",
+    "textblob_score": 0.8208333333333333,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8956,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "nice explanation, very clearly stated which is rare today. also nice sweater.",
+    "textblob_score": 0.4075,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8221,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Wow I feel so early! I’ve been trying to learn latte art at home for months now but I only make a couple lattes a week so it’s slow progress 🙃 thanks for your knowledge!",
+    "textblob_score": 0.33499999999999996,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8985,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Thanks for analyzing the &quot;not perfect&quot; variants at the end, that really helps!",
+    "textblob_score": 0.525,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7257,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Just got my first espresso machine with a steam wand this week. This video couldn&#39;t have been timed better 😂",
+    "textblob_score": 0.375,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7003,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I know you love coffee, but arguing over the size of microbubbles is a bit pretentious, I remember a time when you just called it white coffee.",
+    "textblob_score": 0.06666666666666667,
+    "textblob_sentiment": "neutral",
+    "vader_score": -0.34,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Thank you! Trick that helped me a LOT: swirl after steaming, but swirl for a long time, till glossy!",
+    "textblob_score": -0.0625,
+    "textblob_sentiment": "negative",
+    "vader_score": 0.3036,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "During the 20 odd years of my coffee journey I never bothered. Now you got me tempted to try this rabbit hole too. If James produces a 40-minute course, I feel obliged",
+    "textblob_score": -0.16666666666666666,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.0869,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "I struggle with the &quot;canvas&quot; colour. It&#39;s never just right! Also met baristas that swirl with the left hand, with the cup, instead of drawing with the lattier. Driving me crazy!!!",
+    "textblob_score": -0.2142857142857143,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.3956,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Can i ask how can someone join your discord",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": -0.128,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "I&#39;ve been pouring latte art with varying and inconistent levels of success at home since 2021, but this video has taught me so much about where I&#39;ve been going wrong. I don&#39;t think any other latte art content I&#39;ve come across has been as helpful as this video in understanding how to hone my skills and get consistently great results. This certainly isn&#39;t just for beginners!",
+    "textblob_score": 0.45714285714285713,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8988,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I found that putting the pitcher in the freezer before putting the milk in, makes a big difference in the quality of the foam I get.",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Thanks a lot James, best latte art video ever",
+    "textblob_score": 0.8999999999999999,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7964,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Latte art is the flare bar tending of the barista world .",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Great video as always, James, thank you! Question: Does the angle of the steaming wand need to change depending on the number of holes in the tip? That is what I have never heard from anyone. If the angle is 45 degrees, one hole is pointing out of the milk while injecting the air, the same can happen in the second phase. One would say 90 degrees should be the angle for 4 holes, but I am never sure. Thank you for any answer!",
+    "textblob_score": 0.471875,
+    "textblob_sentiment": "positive",
+    "vader_score": -0.3054,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Thanks James. My latte art has been terrible. I think I’ve realised that my milk prep is to blame.",
+    "textblob_score": -0.4,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.3818,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "I think you made it too complicated this time🙂",
+    "textblob_score": -0.5,
+    "textblob_sentiment": "negative",
+    "vader_score": 0.4033,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I wish this existed a year ago. So much value here. Thank you James!",
+    "textblob_score": 0.25,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8004,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Great work!! Trank you so much",
+    "textblob_score": 0.8999999999999999,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6892,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "separation between the brown and the white",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "what does &quot;dry&quot; milk mean?",
+    "textblob_score": -0.3125,
+    "textblob_sentiment": "negative",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "alright. now on to try some latte art. I think I&#39;ve messed up having too much foam and not mixing it.",
+    "textblob_score": 0.2,
+    "textblob_sentiment": "positive",
+    "vader_score": -0.1027,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Practice where you can make a mess...<br>Like my sister&#39;s house?",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Extremely helpful!",
+    "textblob_score": -0.15625,
+    "textblob_sentiment": "negative",
+    "vader_score": 0.5244,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "the beige problem!! Wow somehow I&#39;d never considered pour height and I think that&#39;s my major issue. Very complete video that gives me some new things to try",
+    "textblob_score": 0.10721590909090908,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.3987,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I have seen many latte art tutorials, of very high quality, but this one is the most comprehensive by far.<br>Thank you for the video, and thank you to the brave souls from Reddit who let us learn from their mistakes.",
+    "textblob_score": 0.502,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8196,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "So many great tips! Thank you james",
+    "textblob_score": 1.05,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8004,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "A big shoutout to all the non-native English speakers that were able to differentiate &quot;picture&quot; and &quot;pitcher&quot;!",
+    "textblob_score": 0.20833333333333334,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "The best video about latee art on yt",
+    "textblob_score": 1.0,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6369,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Hard to swirl the milk because the spout stops it from going round",
+    "textblob_score": -0.24583333333333335,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.25,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Wonderful video, thanks James. This really engaged me, in a similar way to the Moka brewing videos you made a while ago, with some simple to follow and well explained guidance delivered calmly and with authority. Excellent teaching 👏 I always say to my friends that I&#39;m glad I got out of the professional coffee game before Latte art was a thing because I have no artistic ability and would have really struggled - but now I&#39;m going to go and steam some milk, make some nice coffee, and give it a go 🎉",
+    "textblob_score": 0.5717948717948718,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9466,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "This was AMAZING! I recently started a job in hospitality, and I often get to work behind the bar- where we work with a La Marzocco machine. Being able to, not even with a pitcher in hand, imitate the movements as well as you demonstrated: MAJOR help. And when I thought: &quot;Yeah, but what happens if I f this up?&quot; You go and show EXACTLY what happens, when I was thinking about what happens. I&#39;m more than ever excited to climb behind the machine and experiment with my pour height/speed and using a bigger pitcher for single drinks as well. Thank you James!!!",
+    "textblob_score": 0.4361810064935065,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9455,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Whoa hold on. Monk&#39;s head. Let&#39;s get into it. I need some follow up.",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "I am embarrassed by how much I have been hoping James would make this video.  Simply brilliant.",
+    "textblob_score": 0.55,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6249,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "This has cleared up a few things for me, thank you can&#39;t wait for my evening boil up to try these tips out, at the moment I am rubbish, good coffee but forget the milk thing.",
+    "textblob_score": 0.5499999999999999,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.1406,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Can you do the swan one day",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "great vid! Im pouring latte art for about 10 years and even for me there was some new info here. However, to get more control on contrast and prevent the &quot;beige&quot; zone, I just stop pouring in between creating the canvas and the art itself. In my opinion this gives the sharpest latté art with lots of contrast.",
+    "textblob_score": 0.8454545454545455,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6696,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I can’t believe James didn’t mention the “Ehfit” approach to milk art.",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Thanks James for the time and effort to make this video, very helpful! I&#39;ve been plugging away at progress with my daily cup of brown. Have learned how important milk texture is, but still unable to progress lately. I now realise that: <br><br>1) My thought of using a smaller jug for better control was perhaps flawed ... makes sense to use a bigger jug for improved pour angle.<br><br>2) I&#39;ve been pouring ln the slow side, to give myself more time ... but this is probably making things harder, rather than eaier.<br><br>Can wait to try these tips in the morning!",
+    "textblob_score": 0.3096153846153846,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.925,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I&#39;ve watched 100s of video about making Latte art and how to make the perfect foam. Yours, Lance&#39;s, Emilie&#39;s, etc etc. What NO ONE talks about is how to make the foam flow across the Crema. Having tried for 10 years I can draw with the foam but it ONLY stays where it was poured. NEVER flows. I&#39;ll be interest of you address this, but I doubt it because NO ONE does!!! It&#39;s the one essential property that Latte art requires!",
+    "textblob_score": 0.6333333333333333,
+    "textblob_sentiment": "positive",
+    "vader_score": -0.6038,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "I&#39;ve been hitting a wall with pouring a rosetta at the cafe where I work part-time (I can pour hearts quite consistently now so I&#39;ve been chasing progress), and Coffee Jesus Hoffmann posts a video about this. Coincidence? I think not! Gonna be looping this video at my next shift.",
+    "textblob_score": 0.15625,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8122,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "It must be so frustrating to work on the production team and watch James pour a perfect coffee every single time (even when he says he’s purposely “messing it up”)",
+    "textblob_score": 0.47619047619047616,
+    "textblob_sentiment": "positive",
+    "vader_score": -0.0107,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "superb refresher for me.I did a course back in 2009. They mentioned everything else except the pour height. Since then I had poor height, now after watching this Hoff, I have good pour height...",
+    "textblob_score": 0.625,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.5994,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "You are an incredible teacher James.  I have been making coffee on my Rancilio Silvia at home for over 10 years now but have always avoided latte art thinking it&#39;s purely reserved for professional baristas - I guess I had been steaming the milk decently enough that I have been getting by taste-wise over the years.  Watched two of your videos yesterday (milk steaming + this one) then suddenly I&#39;m making rosetta and beautiful microfoam this morning to the shock and delight of my partner.",
+    "textblob_score": 0.3440476190476191,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7351,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Please do an intermediate version! I have the basics down but I want more advanced techniques please! Great video",
+    "textblob_score": 0.711111111111111,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9395,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I have watched a lot of tutorial videos and this one I think is the best and most approachable for newbies. <br><br>Actually showed me the mistakes I am actually making.",
+    "textblob_score": 0.5,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4019,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I have mastered aeropress, espresso, and even coffee roasting, but perfect latte art still eludes me. This video couldn&#39;t have come at a better time, and it FINALLY explains everything I need to know which nobody else has. THANK YOU JAMES!",
+    "textblob_score": 0.8,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9387,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Where do you get your sweaters from",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Now that I&#39;ve watched waaaaaaay too many latte art tutorials, this is the one I was looking for—the ultimate guide, from you.",
+    "textblob_score": 0.25,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "I participated in the decaf coffee experiment. When do we digitize the results?",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "This is incredibly helpful and is giving me a few ways to improve my own latte art! Specifically, the thing I enjoy most is how you go about teaching these topics. I&#39;ve found the best way for me to learn any skill is to have three things:<br><br>1. Positive Feedback: What should I be trying to do?<br>2. Negative Feedback: What should I not be doing?<br>3. Direction: If I&#39;m not doing something correctly, how can I do things differently?<br><br>This got me through my art program in college and I appreciate how you clearly explain all three of those things in this video. Cheers! 🖤",
+    "textblob_score": 0.37803030303030305,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9826,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I wish i had James as all my school teachers. His teaching technique is so effective. 🙏",
+    "textblob_score": 0.6,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7712,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Thank you, James! You are a very detailed teacher. This video has been such incredible help! I have worked at Starbucks for over 10 years and have messed around with latte art for a while. I want to share this knowledge with all my fellow co-workers!",
+    "textblob_score": 0.5066666666666667,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7557,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Great video with some interesting tips .<br>Thanks James 😊",
+    "textblob_score": 0.95,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9153,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "In summary: tap, tap, tap, swirl, swirl, swirl, swirl, swirl, pour.",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Incredible video on Latte Art. Thanks, James for getting into the right details for Beginners.",
+    "textblob_score": 0.7619047619047619,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4404,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Took me a few days, but I&#39;m doing it.",
+    "textblob_score": -0.2,
+    "textblob_sentiment": "negative",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Dude has the voice of an angel.",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "When I bought my first machine all I knew about coffee was that espresso needs a machine, then I opened YT and searched coffee, that was the start of becoming a virtual student and learning everything I could from James videos, a great educator, I know this because in a week I made delicious espresso and got good beans and steamed milk smoothly, and I’ve been learning about coffee since then, thanks for making me interested in coffee more than just brewing a caffeinated beverage",
+    "textblob_score": 1.4055555555555557,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.946,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Thanks James! I learned my mistakes from your tutorial",
+    "textblob_score": 0.55,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.1759,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Never seen anyone being so technical and passionate about coffee as this man is. Its an absolute blast watching your videos!",
+    "textblob_score": 0.06666666666666667,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.6067,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Ah, great video to help me learn the Rosetta and fix the inconsistencies with the Tulip!",
+    "textblob_score": 0.6375,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7959,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "New coffee people have got it so good",
+    "textblob_score": 0.7181818181818181,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.5777,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Brilliant, a super informative guide to take away from, learn, rewatch and practice, I learned what I could from your books but this is great and probably the best way to show it. Thank you",
+    "textblob_score": 1.0583333333333333,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9664,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "This is the best collection of tips I&#39;ve seen, and I&#39;ve seen a lot. Thanks.",
+    "textblob_score": 0.8999999999999999,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7964,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I’m so happy to hear about the holes in my tip.",
+    "textblob_score": 0.8,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6115,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Struggling with foaming and pouring since quite few years.. will check tomorrow with this new enhanced knowledge",
+    "textblob_score": -0.03181818181818183,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.4215,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "On the one hand, Starmer, supported by the Zionist lobbies, supports Israel and, worthy emulator of Johnson, announces to the world the intention to send British troops to Ukraine, raising suspicions that fentanyl flows freely in Downing Street. A few miles away, someone else speaks of foam in the cup, of swirls, of tap tap, thus reconciling the world with England but raising the suspicion that what flows too much in Downing Street are cappuccinos.",
+    "textblob_score": 0.14666666666666667,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.3071,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "2 videos in one day? What mischief is James up to?",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": -0.4329,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "This is a whole masterclass completely for free, and I LOVE it",
+    "textblob_score": 0.30000000000000004,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8595,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "The incredible teaching capacity of James never ceases to amaze. Its never dull, its never too basic,  this man is the GOAT.",
+    "textblob_score": 0.34861111111111115,
+    "textblob_sentiment": "positive",
+    "vader_score": -0.1511,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "This is a great breakdown! I’ve struggled with oat milk, I know the barista variation should be better but given the higher price, I’ve been using the oat milk marked as extra creamy. It’s so hard to get the right balance of foam.",
+    "textblob_score": 0.5634353741496598,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.2005,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Awesome, really liked you commenting others latte art! Will definitely use those tips.",
+    "textblob_score": 0.8833333333333333,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8803,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "This is the first video of his I didn&#39;t bother watching. I guess someone somewhere  cares about pretty foam.",
+    "textblob_score": 0.25,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.5859,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "question <br><br>can you stop between setting the canvas and moving the jug down to do the art or do you need a constant stream?",
+    "textblob_score": -0.07777777777777778,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.296,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "This is such a great video on so many levels but what really stands out to me is the empathy and consideration towards someone starting out w latte art. Especially the part about waste and the reminder you still have sth tasty on your hands even though you might not think the pour is perfect.<br><br>I feel like there are so many great videos out there when it comes to sheer information about latte art but they are also often quite overwhelming in my experience. <br><br>Wish I had encountered a video like this when I began my espresso journey a year ago, you’re helping so many people out in such a nice way here!",
+    "textblob_score": 0.9107142857142856,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9596,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Hi James, thanks so much for this video! One thing I struggle with often is pouring multiple (or at least 2) cups from one pitcher - how should I go about that? The milk by the second cup is always a lot thinner however I try to swirl it before and in between, to the point it falls apart and cannot draw with it anymore. I tried pouring half of the milk into another pitcher but still, the texture is different.",
+    "textblob_score": 0.2976190476190476,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.1511,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I know a number of barista who, even though they are quite accomplished at it, have put the latte art fad in their rear view mirror.  The amount of milk one needs to make a suitable foundation for latte art absolutely ruins an otherwise good cup of coffee (IMHO and in the opinion of many baristas whom I trust). In fact, in most of the latte art competitions I have viewed, the judges don’t even taste the coffee.  The quality of my coffee is not secondary to an acceptable rosetta!  A well brewed macchiato with but a dollop of milk is as far as I will push a milk coffee.  For what it is worth, if you steam a 1/1 mixture of coffee to ice, you can get a foam suitable for creating coffee art without destroying the cup itself.",
+    "textblob_score": 0.5943181818181817,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9352,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "this has answered so many of the questions I had about what i was missing! This morning i got something that almost looked like a heart. now i just have to practice!",
+    "textblob_score": 0.09375,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.7009,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "My question still, will I cry over spilled milk?",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": -0.4767,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "I have found that mixing some   regular milk with oat milk helps with the glossy texture, unless someone is lactose intolerant.",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.3818,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Thank you so much James, really good video.",
+    "textblob_score": 0.75,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6901,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Great video, but I would have preferred more of the top down - the way I’d see it - than the side shot.   It looks like you have the footage.   Can you do another version showing as much of the top down as from the side?",
+    "textblob_score": 0.6126984126984126,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8623,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "James longer videos always have this Bob Ross style to it. So suuper positive, stop wasting resources and accepting little mistakes for learning. Loving it.",
+    "textblob_score": 0.21325757575757576,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6133,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "The consummate Hoff daddy, schools us all once again.",
+    "textblob_score": 0.95,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Did you colour coordinate everything in shot, including the milk bottles???",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "If you want to practice and don’t want to waste milk or don’t have it - back at where I worked we used water with a drop of washing up liquid and it foamed exactly like milk does!",
+    "textblob_score": 0.0375,
+    "textblob_sentiment": "neutral",
+    "vader_score": -0.2714,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "I own a Zerno Z1 coffee grinder, a Profitec Drive, have loved/ been obsessed with coffee for six years, I use Bonsoy and still can’t pour latte art to save my life🤣🤣",
+    "textblob_score": 0.04999999999999999,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.9153,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I&#39;ve been playing around with - at best mediocre - attempts at latte art for two years and this 40 minute video has provided solutions to ALL the issues I&#39;ve been having. Todays half-assed attempt was miles better than anything I&#39;ve managed in the last two years.",
+    "textblob_score": 0.25,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8625,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Helpful video, thanks James!",
+    "textblob_score": 0.55,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7177,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "MAKE IT!!!",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Wow, this is by far the best video on pouring latte art that I&#39;ve seen yet. Excellent job on this video",
+    "textblob_score": 0.55,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9136,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "James is over here talking about the hole in the tip, how far to put in the tip, and cleaning the milk off the tip without even a giggle…",
+    "textblob_score": 0.1,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "I always ask myself who drinks all of these coffees after these tutorials. Great video :)",
+    "textblob_score": 0.95,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7964,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Thanks!",
+    "textblob_score": 0.55,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4926,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "What&#39;s a Latay? I&#39;ve heard of a Lartay but not a Latay! 😂",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.63,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Wish I could explain ANYTHING as well as James does, really awesome video. Thank you",
+    "textblob_score": 1.3,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8991,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I just ordered my first espresso machine. I worked in a coffee shop one summer before university and made loads of cappuccinos but that was decades ago when late art hadn&#39;t been developed. I haven&#39;t made a late or cappuccinos since. And while i wait for my machine to arrive in 4 days, this video drops! Great timing!!! Thank you James! So excited to try this all out!",
+    "textblob_score": 0.490625,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9455,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Quick question James - you said that the holes on the tip of the wand influences the duration of the milk foaming process. Isn&#39;t it better to have more holes so that the process is shorter and the milk temp won&#39;t rise up too much?",
+    "textblob_score": 0.3833333333333333,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4404,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Been waiting for this video for years.<br>Is 2am too late to make a latte and start practicing 🤔",
+    "textblob_score": -0.3,
+    "textblob_sentiment": "negative",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Mr. James Hoffman, why are you such a badass? You&#39;re making me want to get a barista job, just so I can make latte art.",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.4019,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Hey James, thanks for the tips! Your channel is a goldmine of info for us (awesome) coffee people and I hope to be pouring art half as good as you do someday soon 😁",
+    "textblob_score": 1.3458333333333334,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9441,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Thank you for sharing your tips and techniques.   It is so helpful.  I always ended up with blops of foam.  Who knew a swirl made such a difference.   I can&#39;t wait until the weekend so I can have some time to try it out.",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.8367,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "what about french press? can it successfully foams the milk?",
+    "textblob_score": 0.375,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.5514,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I think you might&#39;ve missed the 4th key pattern: The Onion<br><br>Some may say it&#39;s a failed heart but it took me years of consistent practice to reliably produce a perfect onion",
+    "textblob_score": 0.4875,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7096,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "When I was practicing at home, I kept some large jars in the fridge full of my trial lattes. When they filled up I made a custard out of them, threw it in the ice-cream maker, and boom - no waste.",
+    "textblob_score": 0.26607142857142857,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.3252,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Thanks James, beautiful latte art lesson.",
+    "textblob_score": 0.825,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7783,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "One thing I always hated about latte art is the huge volume of milk poured down the drain in many coffee shops just to make it. I&#39;ve seen baristas dump as much or more milk than what they used to make a single coffee.",
+    "textblob_score": 0.04550264550264551,
+    "textblob_sentiment": "neutral",
+    "vader_score": -0.6705,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "I have to stop watching his videos before going to bed. I end up not being able to sleep because I am thinking so much about what he said or explained and I am excited to try these things the next day.",
+    "textblob_score": 0.26875,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.0516,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Was it helpful? It was art! ❤",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.807,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "This was great thank you",
+    "textblob_score": 1.1,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.765,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "People talk about all types of milk except Lactose free. Is this different than the dairy free and whole milk ?",
+    "textblob_score": 0.25,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.765,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Thank you so much for making this! This has been the most instructive video, as you showed both the wrong and the right way to do things and explained what happened and why in very clear full sentences. This was super helpful. Thank you!",
+    "textblob_score": 0.204625850340136,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9107,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Oh wow finally a trustworthy and detailed source, maybe ill give it a shot",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.6808,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "James Van Gogh is in the house.",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "About the bubbles in some of the photos at the end - these have happened to me too even after tapping my milk jug to dissipate them. My problem was pouring at the wrong height while incorporating. This caused new bubbles to form as the milk “splashed” into the espresso, so the issue could be this as well.",
+    "textblob_score": -0.18181818181818182,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.5719,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Woohoo been waiting for this!",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.5562,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Thank you James! The only problem I have with this video is I’m watching at 10:30pm and now I want to make espresso before going to sleep. So many helpful tips!! Looking forward to the morning attempts.",
+    "textblob_score": 0.390625,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6192,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I think I can steam milk OK, but my pour is more of a poor. Maybe it&#39;s my paws?",
+    "textblob_score": 0.19999999999999998,
+    "textblob_sentiment": "positive",
+    "vader_score": -0.6752,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Awesomeness per norm....looking forward to trying the techniques!",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Oh James!!! You spent a LOT of time referring to small jugs and big jugs. I can only imagine that this might be the topic of the next Hoffman Cometh video. Did Hames Joffman ever make it back to youtube?",
+    "textblob_score": -0.05833333333333333,
+    "textblob_sentiment": "negative",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "The fact that so much work goes into making latte art makes me feel bad that really don&#39;t care much about it..... like as a lifelong latte/coffee drinker I feel like i should, but, idk..... not a big deal to me. Half the time I&#39;m ordering a lattee to go, and will literally never see the art at all. Impressive video nonetheless, thanks.",
+    "textblob_score": 0.09259259259259262,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.8804,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Doing God&#39;s work, James... 🙏😘",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.4215,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "The detailed descriptions are so helpful.",
+    "textblob_score": 0.4,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.5598,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Yay! Finally ❤💕",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.9215,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I really appreciate Italians that don’t give in to all this nonsense to charge insane amounts for the drink with the highest profit margin. Just enjoy coffee, nobody really cares about these for more than a couple of seconds",
+    "textblob_score": 0.06,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.7623,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I feel like I just watched a Hogwarts potion class",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.3612,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Thank you for showing me how much effort goes into getting these effects right! I always enjoyed seeing the patterns but didn’t understand how much thought it took.",
+    "textblob_score": 0.3142857142857143,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4926,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Watching this whole video with no intention of ever doing any of this.  I drink Keurig coffee 😂😂😂",
+    "textblob_score": 0.2,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7579,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "BIG THANK YOU. Great video as usual James. My coffee journey has come so far and better with all your videos, your videos has teach me a lot that I always refer you to someone else when I am teaching new peoples into coffee.<br>Could you please cover how pouring milk affect the taste? My coffee is very creamy but the froth part tend to be on a slight bitter side.",
+    "textblob_score": 0.4355218855218855,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4833,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Thank you very much. I&#39;m just starting out in barista and it turned out well.",
+    "textblob_score": 0.13,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.5574,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Loved the show and tell in this one. The visual examples spliced in to show exactly what you&#39;re talking about are excellent.",
+    "textblob_score": 0.4875,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8225,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Loved this James! Thank you for the kind shout out. <br><br>Also when are we throwing down?",
+    "textblob_score": 0.4398148148148149,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8777,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "This is a great tutorial and really helpful. I have watched sooooo many other videos on this and learnt stuff from them, but, as with your steaming video, the way that you explain things do make it a lot easier to understand and provide foundations for practicing this art form. Now I have an issue with Lactose, discovered really just over a year ago, which makes this interesting. I have taken on board that perhaps Barista Dairy Free Alternatives might be better, however, I have been using Lactose Free Milk which you can get in full fat or semi-skimmed. interestingly, I have found this really easy to steam, particularly after watching your video, so much so that I am really good at making Cappuccino&#39;s regardless if that is/was my aim from the outset! Some of the main supermarkets now stock Lactose Free Milk, own label stuff which is far cheaper (less expensive to waste if you get it wrong) than the Aria make. I do prefer the Lactose Free Milk to Oat milk, it does make a really nice creamy texture after stretching and steaming. I wonder if you have tried it and what your thoughts are on Lactose Free Milk as a non dairy option?",
+    "textblob_score": 0.8769230769230769,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9942,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "you should do a video on steaming with all the different steam tips!",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "I’ve waited so long for this!!!!, love it",
+    "textblob_score": 0.18896484375,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8002,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I think it is easyer to paint Mona Lisa.",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Savory or sweet coffee-forward recipes, please.<br>I don&#39;t allow myself to drink my black coffee at home anymore, for the past couple of years (I was addicted). I do, however, enjoy espresso when dining out...or even espresso/coffee with liquor, any time of day (or night). I would appreciate more complex ideas to get full coffee flavor at home.",
+    "textblob_score": 0.06041666666666667,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.8689,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Regarding alternative milks,  I&#39;ve had soy milks curdle in the cup.  I&#39;ve compensated by adding 1/4 grams of baking soda to the 1 quart carton to buffer the soy milk against the coffee acidity.",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "He could milk the algorithm of youtube and release 10 video of 5min ish but just decided to make 1 long video...thanks you!!!",
+    "textblob_score": -0.09765625,
+    "textblob_sentiment": "negative",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "all the art analogies meant I kept hearing &quot;look at the picture&quot; instead of &quot;look at the pitcher&quot;",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Thank you very much James, I had watched so many videos trying to figure out what it was that I was doing wrong and you answered it, and any other questions I had. It is greatly appreciated. I’m a proud Patreon and I really enjoy you and your channel!",
+    "textblob_score": 0.23357142857142857,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8714,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Thanks",
+    "textblob_score": 0.5,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4404,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I would be cheeky and mention something about spoons and cream, but dangit James!  Soooo much to unpack in this video to learn. <br><br> I was just gifted a gaggia classic pro today so this is the alignment of all planets in my coffee world today!<br><br>Thank you for everything that you bring to learning about coffee James!",
+    "textblob_score": 0.30277777777777776,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Every time I go into a cafe and can treat myself, I want a latte because they’re very pretty and warm and it’s a cold rainy day. And I want to look at something sweet while I wait before going outside in the wet. I’ve always asked if they can make me one without dairy, because I am lactose intolerant and warm milk is like dropping a bomb in my stomach, and when I ask “can you make a non-dairy latte with non-dairy milk on top.” I always am told no. I understand that it’s not going to behave nearly the same as milk. I understand. I have lowered expectations anyway because it doesn’t have the same qualities as milk, I know that. I already have lowered expectations because I’m lactose intolerant and haven’t had regular milk my entire adult life. I just want a warm pretty looking delicious drink, to warm the cockles on my lonely heart before going about my day. I end up drinking a disappointing cold drink like a Frappuccino I didn’t want. 😂😂😂",
+    "textblob_score": -0.15595238095238093,
+    "textblob_sentiment": "negative",
+    "vader_score": 0.9832,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I want all the espresso beans bags! lol",
+    "textblob_score": 0.8,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.5255,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Excellent video that fixed my issues. The rotating of the milk after frothing at the start. For the Rosetta I think you need to emphasize thinking about the flow of milk, not your motion of hand. Don&#39;t get stuck on the jug and how you move it but rather what the milk is doing.",
+    "textblob_score": 0.55,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4497,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I&#39;ve watched heaps of latte art vids over the years, and James is pointing out things I never realised or only picked up myself via experience (not in the previously watched vids). Excellent stuff",
+    "textblob_score": 0.2777777777777778,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.5719,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Leonardo da Vinci: engineer. James: engineer. You are able to teach Art because you get the engineering right. Thank you.",
+    "textblob_score": 0.39285714285714285,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.3612,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Reiterating that you&#39;re not the best of the best at latte art right after saying you came in fifth seems a tad redundant. Yes, you&#39;re the 5th of the best.",
+    "textblob_score": 0.6171428571428571,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8286,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "So well articulated. I really needed this. Will give it another go 🤞. Thanks!",
+    "textblob_score": 0.525,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6793,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "You have transcended mastery to be a great teacher",
+    "textblob_score": 1.1,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6249,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Sir, the INFLUENCE you are in the world of coffee, but also in life in general, producing a video with SUCH knowledge, free to anyone who wants to learn, is amazing, thank you, James",
+    "textblob_score": 0.55,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9313,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "The bits about how to identify which mistakes  are being made was very helpful, like the crema foaming up around the edge, and the ‘beige zone.’ I’ve been trying to draw a heart for over two years, I bought a thermometer, I bought a bigger pitcher, I can usually get a tasty result, and I observe all the ‘mistakes’ I’m making, but I don’t know they’re mistakes, I think they’re wonderful effects— ‘look how the crema foamed up today,’ or ‘my, this coffee has a wonderful brown color, I wonder why it isn’t this way every day?’ Totally clueless, that’s me! But I follow James Hoffman and Emily Bryant, and I’m learning something new every day. 🙂",
+    "textblob_score": 0.29805194805194807,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9153,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I have two issues: Generally for me (barista) oat milk is the hardest to steam properly. Most often I still do not get silky texture. With whole fat or skimmed milk, it works a lot better.<br><br>Second, I usually make two coffees, would be interesting to see how to pour two drinks in a sequence.<br><br>But I still learned a lot and I will keep practicing!",
+    "textblob_score": 0.225,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4574,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "My morning&#39;s latte art looked like an obscenity.  If only I&#39;d watched this video first.",
+    "textblob_score": 0.125,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.3612,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Thanks so much for this video. I’ve been making coffee fur 4 years now but still can’t get great latte art because I’m still struggling to get the milk texture right. Not giving up tho",
+    "textblob_score": 0.9714285714285715,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.3283,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "You have to be the main cause to the power struggle of better coffee being made in the home than the cafe’s… educating us home soon to be baristas 😅😅thanks for this great lesson",
+    "textblob_score": 1.088888888888889,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8879,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "This was really nice. I learned a few things. Namely, to do better otherwise feel humbled with virtual Hoffman looking over my shoulder.",
+    "textblob_score": 0.3,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7178,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Is it possible to not being very wasteful if you just want one small cup? Can you foam such a small amount and not end up dumping the rest?",
+    "textblob_score": -0.06,
+    "textblob_sentiment": "negative",
+    "vader_score": 0.3863,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Didn&#39;t realize heat was a factor. Getting the milk really hot is probably what&#39;s been my difficulty.",
+    "textblob_score": 0.25,
+    "textblob_sentiment": "positive",
+    "vader_score": -0.34,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "How many coffees did you have that day?",
+    "textblob_score": 0.5,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "I&#39;ve always loved Latte Art,<br>but now that I understand how it is made (and how much thought goes into it),<br>I appreciate it even more.<br><br>Thanks for explaining c(&lt;3)",
+    "textblob_score": 0.44999999999999996,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.765,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Very helpful! As always...",
+    "textblob_score": 0.25,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.5244,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "So about that first image in the last section. I had a similar issue to the one shown that everything was pushed to the top and had like a flat bottom in the beginning. This is common if you work with like flat bottom-high-wall cups and not nice cappucino cups. I recommend getting the basics down with a classical cappucino cup as it is much easier and than come back to the &quot;more challenging&quot; cup designs.",
+    "textblob_score": 0.012037037037037035,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.8302,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Please James teach me how to froth usable milk using one of those crummy little vibrating electric whisks. I have one and all the foam I make with it ends up super dry and it just sits on top of the coffee in an unpleasant way. All the guides I can find online don&#39;t seem to be concerned about the actual texture of the resulting milkfoam so they are basically like &quot;Stick it in the hot milk and let it go till its foamy&quot;. I need your nerdy insights into how to get the most out of my $15 tool lol",
+    "textblob_score": 0.16435185185185186,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8402,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "No way! I have been trying to practice my latte art and only last night started watching videos and then you upload! 😮",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": -0.4184,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Thanks so much.",
+    "textblob_score": 0.5,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4404,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I feel like James really missed an opportunity to talk about the stovetop steamers. Flair even released a new one not too long ago. I have made one from a Bialetti years ago. I eventually graduated to a Bellman, it has not let me down. The flair version looks even better. I may be graduating in the future.",
+    "textblob_score": 0.10513468013468014,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7159,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Love the sweater james, did you knit it?",
+    "textblob_score": 0.5,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6369,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I just got a Dedica and did the steam wand upgrade, the timing could not be better! 😁",
+    "textblob_score": 0.625,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.223,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Getting schooled by the Kaffee Khan himself. What an honour.",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.5719,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "still loving the Background-Bripe! going to practice on my latte-art now, thanks",
+    "textblob_score": 0.7749999999999999,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7959,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "absolutely smashing video !",
+    "textblob_score": 0.25,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "great video and a nice tip regarding milk temp, had not picked that up from any other videos 👍",
+    "textblob_score": 0.725,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7845,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Thank you!  Is there a brand of Almond milk that you find does good latte art?  I use it are it is low carb, it steams well but art is not good",
+    "textblob_score": 0.016666666666666607,
+    "textblob_sentiment": "neutral",
+    "vader_score": -0.1781,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "I should&#39;ve submitted one of my buetiful blobs...😅",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.3612,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I use some 40% fat milk. Gives it extra body 😂",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.4404,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Oh dear I think I’m going to set myself another hobby challenge 😂",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.7003,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "The last 5 minutes is what I really needed. I&#39;d be down for a 10 minute video that&#39;s just troubleshooting like this 👍",
+    "textblob_score": 0.014814814814814817,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.4939,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I have zero desire to pour latte art but watched this video just for the informational value and now my brain is buzzing with ideas for different shaped cups and pour spouts.  🤣",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.85,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Amazing. Thank you so much. There is 1000 latte art video but this one has so many new tips and explanation. I&#39;m there listening and taking new notes.",
+    "textblob_score": 0.6145454545454545,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4854,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "anyone have any tips for heavy cream using one of the heat/froth combo machines? feel like I&#39;m probably very off texture wise and don&#39;t know if the heavy cream vs milk changes anything",
+    "textblob_score": 0.12499999999999999,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7063,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "As usual, a combination of wisdom, excellent presentation and humbleness at the same time - amazing! I am sure you could have given some examples with perfect rosetas and more complex art to show yourself but you did not put yourself in the center, kept carrying about the audience and followed the goal. In your recent video on espresso quality at home vs. cafe , some even pointed out in the comments that you take zero credit for your contributions to progress... but luckily we know it well ! <br>There is a new direct flight opening soon between Ottawa and London and I hope to use that as an excuse to come and hopefully somehow be able to shake hands with you 🤝:)",
+    "textblob_score": 0.893939393939394,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9842,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Never heard so many synonyms in 40 minutes",
+    "textblob_score": 0.5,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Finally we needed this",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "This is exactly the video that would have helped me when I was starting out with latte art. Great stuff, thank you!",
+    "textblob_score": 0.7166666666666667,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.784,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Thank you! Sooo many questions at long last answered! 🤗",
+    "textblob_score": 0.15,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7081,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I really enjoy this video, even if it confirms my decision to not worry about art on my home cups of coffee. thumbs up",
+    "textblob_score": 0.4,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7095,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "This is by far the most helpful video I&#39;ve watched on pouring latte art. Thanks James!",
+    "textblob_score": 0.5833333333333333,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7419,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "all we use is goat milk...healthiest option",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "100% agree with you about waste, i wouldn&#39;t ever waste a single drop of milk for art. Thats said 6 years later my latte art is hit and miss, especially when family want art and an extra hot latte😮",
+    "textblob_score": -0.03163265306122449,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.6412,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "I once did an SCA course, and this was actually more informative 😂",
+    "textblob_score": 0.5,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4404,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Best late art I&#39;ve every received was a Tuatara lizard.   Coolest I&#39;ve ever seen.  Absolutely flawlessly done.  The coffee wasn&#39;t bad.",
+    "textblob_score": -0.04999999999999999,
+    "textblob_sentiment": "negative",
+    "vader_score": 0.4201,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I’ve been pouring 4 flat whites a day and it’s taken me 2yrs to gain some confidence in how the milk/foam is going to flow as it hits the coffee surface - which then dictates the pattern I’m going to make. Generally less (air entrainment) is more (better micro foam) - just 3secs “frothing” is enough before the “homogenising” phase. Still nowhere near a swan yet, though!",
+    "textblob_score": 0.15555555555555556,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8803,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Love this James thank you for making this video.  Definitely the area I need to most help with!",
+    "textblob_score": 0.375,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9133,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "A true masterclass from the granddaddy master himself.",
+    "textblob_score": 0.35,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4215,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Might be the first James Hoffman video I&#39;ve stopped watching halfway through. Obviously it&#39;s not intended for everyone but usually I find them interesting and engaging enough to overcome the specificity of the intended audience. In this case it was pretty long winded and pretty flat. Probably perfect as an instructional video but not great as an entertainment product.",
+    "textblob_score": 0.060416666666666674,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.9643,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Same lamp, bripe and flower pot in both standing and sitting shots but completely different wall and cabinet. Did you re-model between scenes?",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "All those people with latte art featured at the end now going &quot;Immortan James, he looked at me! He looked at me!! Oh what a day, what a LOVELY DAY!&quot;",
+    "textblob_score": 0.5,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7718,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Great tips!",
+    "textblob_score": 1.3,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6588,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Great video, thank you so much for introducing me to coffee from a young age. Could you please review the Delonghi La Specialista Maestro. It is an amazing machine for a great price.",
+    "textblob_score": 1.4000000000000001,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9501,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "What about cocoa powder? Should I add it just after the coffee?",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Thank you for this video!  The tips you have provided are really helpful. I have good milk texture but struggle with wiggling the pitcher smoothly and centring my design. Is it better to hold the cup or setting it down flat on the counter when dealing with these issues?",
+    "textblob_score": 0.5699074074074074,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.713,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Wow wish I saw this when I started latte art a year ago.  You address all of the subtle challenges I faced and troubleshooted using trial and error for months.  Might have saved me some time, but I suppose I drank a lot of good coffee in the process so it’s all good 😂",
+    "textblob_score": 0.8916666666666666,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9468,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Don&#39;t think I&#39;ve ever clicked on a new vid so fast",
+    "textblob_score": 0.16818181818181818,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "&quot;It&#39;s not what we want&quot; Fantastic delivery",
+    "textblob_score": 0.7,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.5574,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "My coffee tastes nice, but my talentless left handed latte &#39;art&#39; renamed by me splatte art looks more like a meat and two veg than a rosette 😆☕<br>Ah well, at least it tastes nice 👍✌️",
+    "textblob_score": 0.27999999999999997,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8954,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Nice tutorial &quot;unless you do something kind of weird&quot; made me lol 😆❤",
+    "textblob_score": 0.6666666666666666,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9062,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Now this is the James Hoffman video I’ve been waiting for! I am rubbish at latte art. My daughter can do it but I’ve never been able to so hopefully after this I will be able to! Thanks James!",
+    "textblob_score": 0.7583333333333333,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8876,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "You’ve stepped up your audio so much since that milk foaming video. Thank you so much for the informative video. Definitely learnt a few things to apply.",
+    "textblob_score": 0.05,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.6369,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "thank you. Excelent video.",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.3612,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Yes I have learned quite a bit indeed! About leaving the crema, I thought you are encouraged to have as much as possible! <br><br>Also I have been pouring way back not in the center, thinking it would flow forward, but it never did. Always fighting with the speed though. Thanks for the video!",
+    "textblob_score": 0.33749999999999997,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8747,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I’ve been searching for latte art tips and help for the last three days 🙈 thank you 👌👌",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.9474,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Excited! Have been casually making cappuccinos for a few years now, and it&#39;s always a gamble what kind of abstract latte art i&#39;ll get, if any",
+    "textblob_score": 0.09218749999999999,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.5255,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "He knew what i couldnt do",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "James: Claims to not be the best latte artist in the world<br><br>Me: Well yes, you placed 5th in the WLAC, so you&#39;re 5th best in the world, clearly.",
+    "textblob_score": 0.7000000000000001,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8223,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Just learned: My main mistake has always been the beginning, not mixing the canvas enough, not adding enough foam to the canvas.  Thats why sometimes it works sometimes it doesnt with my barista express, please do more of this !",
+    "textblob_score": 0.19791666666666666,
+    "textblob_sentiment": "positive",
+    "vader_score": -0.1007,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Thank you very much for the tips, James!  I will be coming back to this, because I know I&#39;m going to forget something.  Hope all&#39;s going well there!",
+    "textblob_score": 0.1625,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7339,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I lost track of you for a few months. Love the new set, as always - hip.",
+    "textblob_score": 0.14545454545454545,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4404,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "The diagnosing part was so nice and important… Thank you James for being at every part of my coffee journey !",
+    "textblob_score": 0.75,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7512,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Masterclass! You&#39;re a great communicator",
+    "textblob_score": 1.1,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6588,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Does he have a tutorial for half and half?",
+    "textblob_score": -0.16666666666666666,
+    "textblob_sentiment": "negative",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Thank you so much for all those tips and tricks and the great analysis of potential mistakes☕",
+    "textblob_score": 0.6333333333333333,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.5574,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Amazing video as usual. I would love to see you coach some noobs like me on the video to troubleshoot some real world beginner errors. I loved you trying to make errors, but your errors were my perfect late art. 😂",
+    "textblob_score": 0.95,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9186,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Thank you for this! I really need some insight of what i&#39;m doing wrong in my latte art and then when you say all those tips, i realized i&#39;m doing it wrong. Hope i learn from you again.",
+    "textblob_score": -0.26666666666666666,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.2714,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "I&#39;ve been really struggling with getting anything good because I make 2-3 attempts at latte art a week but even with that low volume of attempts this video helped me understand way more of what my mistakes are and how to fix them. I am stoked to keep trying on my weekly attempts!",
+    "textblob_score": 0.6812499999999999,
+    "textblob_sentiment": "positive",
+    "vader_score": -0.7421,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Just graduated from uni almost a year ago, not long after i discovered my passions in coffee, and learnt everything from you since Sep, i figured if i dk how to do latte art no one would hire me, now few months later. im able to do intermediate latte art 🤯, man i really wish i could post my latte art pic in the comment.<br><br>i dk why ppl don&#39;t recommend pointy/sharp spout pitcher, maybe its harder for beginner. But I highly recommend jibbi jug, a high-quality sharp spout. Once i get the feel of it, my latte art improved dramatically. Also, steam milk from a 350 ml pitcher, then transfer it to the 600 ml for latte art, bigger pitcher will be easier to get closer to the cup.",
+    "textblob_score": 0.05111111111111111,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.9412,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Fantastic step-by-step breakdown of the technique! After struggling for a year with tasty but marginal latte art, I can’t wait to give it a go again - with more attention to the details James described.<br><br>THANK YOU, JAMES!!!",
+    "textblob_score": 1.03828125,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.3753,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Oh yeah... I thought you&#39;d never cover latte art. Because you said long before that you are far from those kind of artisty baristas, so I concluded that that you really don&#39;t play with pouring latte arts. And usually coffee experts of your caliber don&#39;t mess with this aspect of coffee making anymore. Beginners are the one who normally overrate latte art by obsessing on presentation over taste. But finally, I literally drop everything just to watch this video. The technicality coming from you is always fascinating and helpful.",
+    "textblob_score": 0.14166666666666666,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7776,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Love this scientific approach as always.",
+    "textblob_score": 0.5,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6369,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Very helpful video, especially the addition of troubleshooting errors at the end. It gives good examples to reference when my art isn&#39;t quite what I want it to be.<br><br>One question I&#39;d like answered is how the newer high protein milks factor into all of this. How do they affect the texture and taste of milk drinks and foam? I moved away from them due to cost, and I found that they tended to cook and adhere to my steam wand such that it was a pain to clean, but I&#39;m curious if anyone has tested them and found them more/less useful.",
+    "textblob_score": 0.46685185185185185,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8801,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Oh I cannot wait for the Hoffman Cometh cut of this episode",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": -0.2732,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Get your thyroid checked.",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Tried developing my latte art skills earlier this year then remembered I don&#39;t like milk drinks enough to drink as many and as often as it takes to practice and get proficient XD",
+    "textblob_score": 0.16666666666666666,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7925,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Legendary, a lot of my questions were answered immediately, like the beige formation, as a home barista, I started off with the rosetta and found myself making it more than tulips or hearts. Incredible video, excited upgrade my machine, as I currently steam milk in 2 minutes :(",
+    "textblob_score": 0.33749999999999997,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7635,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Absolutely awesome. I really like the scientific approach. I dont want to have my latte art perfect or terrible by accident. I want to know exactly what i have done good or bad. And this video is exactly what i need.",
+    "textblob_score": 0.5125,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6327,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "To be honest I just do some Jackson Pollock. As long as I get the milk texture right it’ll taste perfectly fine.",
+    "textblob_score": 0.3130952380952381,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8519,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Coffee machine is on. I will let you know if lesson worked! 😅",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.4199,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Youtube: Do you want to learn about Latte Art for 40 minutes?<br>Me who always drinks coffee without milk and does not have the equipment to steam milk: Hell yeah!",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": -0.5255,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "This was more than helpful! Can&#39;t wait to put your advicees to use🎉",
+    "textblob_score": 0.625,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7245,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Don’t waste, just keep drinking lattes! You may not learn day one, but you will get a lot of cleaning done!",
+    "textblob_score": -0.3125,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.3578,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "30 SECONDS?  Jesus… I’ve been boiling the milk I guess.  Maybe I’ll stick with whipped cream 😂",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.4404,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Great video!",
+    "textblob_score": 1.3,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6588,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Love these technique videos.<br>Still waiting for a video to elaborate on the &quot;Two Spoon Technique&quot; mentioned in your French press video ;)",
+    "textblob_score": 0.3125,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7269,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Why do you keep pouring while transitioning from high to low? Why don&#39;t you just stop, lower your jug, then continue pouring?",
+    "textblob_score": 0.08,
+    "textblob_sentiment": "neutral",
+    "vader_score": -0.7059,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "That is literally the best sweater and I want it",
+    "textblob_score": 1.0,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6705,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Lovely video ~ tons of great insight and good, approachable, executable advice. <br><br>I just wanted to add, a good way to get used to pouring latte art quickly is to practice the fundamental techniques (especially rippling) with water. It&#39;s an exercise that really helps build muscle memory. I still do it all the time even though I&#39;m already pretty good.<br><br>Also, I wanna hijack this comments section to shill the wpm 450 ml round spout. It&#39;s a bit expensive but a great piece of kit used by some of the best of the best.",
+    "textblob_score": 1.6294871794871797,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9836,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Great video that goes into all needed details, maybe I will finally be able to improve my big-ol-blob of froth. Everyone usually talks about how to texture it and swirling and adding air, but I&#39;ve never heard about the distance/speed thing but it makes totals sense that it affects thins a lot!",
+    "textblob_score": 0.6291666666666667,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.5848,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I&#39;ve been getting into coffee recently, and notice how you cover things very in depth. I (and others too likely) would love to see a see a series highlighting products that are a good starting point for coffee gear. Products you feel a a great balance of price and quality, for those people who don&#39;t necessarily want to spend possibly thousands of dollars on better coffee, but still want an improvement.",
+    "textblob_score": 0.8700000000000001,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9127,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Could you please film the process of coffee making in a sauna? Pretty sure it&#39;s a good idea (but can&#39;t explain why. thermostability something something)",
+    "textblob_score": 0.7833333333333333,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6542,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I’m wondering if it’s possible to make latte art with milk fomed in an automatic espresso machine.",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "finally, a video where the bad examples don&#39;t look like works of art",
+    "textblob_score": -0.6499999999999999,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.25,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "I&#39;m watching this as I make a flat white. Thanks James, great info here.",
+    "textblob_score": 0.84375,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7906,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I think I am going to have this video on repeat at least once a week for the next year or so. 😂😊",
+    "textblob_score": -0.15,
+    "textblob_sentiment": "negative",
+    "vader_score": 0.836,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Hi James, I would like to learn next about the mixing in a science angle, like we will say complex art need more spaces for painting, so the espresso drink is mixing not even enough to create a delicous latte compare with simple art milk drink. What do you think?<br>I worked as a barista 5 years now and I only pour julep on my drink because I always want to keep the drink is the same.",
+    "textblob_score": 0.028571428571428574,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.7506,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "We have all had that one teacher that stoodout, just a step above, when teaching something you had no interest in and you find yourself immersed in the subject.  Mr. Hoffmann you are a GREAT Teacher and it really is a special talent.",
+    "textblob_score": 0.5476190476190477,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8449,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "share your insight on the xstudio bloom lad",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.296,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Prof Hoffman thank you! 🙇🏻‍♂️",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.4199,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "How do you get microfoam using the silly two-part plastic wand that comes with fully automatic Delonghi and Philips machines? At times it seems that even vendors themselves don&#39;t know the answer to this.",
+    "textblob_score": -0.5,
+    "textblob_sentiment": "negative",
+    "vader_score": 0.0258,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "I recently got into espresso and lattes due in part to your channel. When I was purchasing everything I was looking into whether to get a larger or smaller pitcher. I couldn&#39;t find any videos you or any other person really talking about it. Sof of course I went small, and I am now thinking that may be why I have been struggling. Pitchers aren&#39;t very expensive so I may end up picking up a larger one, or not I don&#39;t know yet, but it is kind of funny to know that you had this video coming up that answered that very question.",
+    "textblob_score": 0.008333333333333337,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.3634,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "The best latte art guide for beginners BY FAR!!! Even though you sound like a pain in the ass - you are awesome at relating coffee information…. Hard to keep the ideas fresh after this many years - but you’re doing it fabulously !",
+    "textblob_score": 0.7504557291666667,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6271,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Watching avidly even though I only drink black coffee 😅",
+    "textblob_score": 0.02777777777777778,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.3612,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I am so glad you finally did this video.  I have struggled with latte art forever and of course you broke every part of it down to a science that is entirely understandable.  I can&#39;t wait to start making my lattes pretty.",
+    "textblob_score": 0.11888888888888889,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4341,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "This is a very useful resource! Meanwhile I&#39;ve also heated milk in a pot and whisked it for some foamed milk to pour over my aeropress - worked well! The world is your oyster with some creativity :)",
+    "textblob_score": 0.5546875,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8879,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Great video, taking various tips and tricks and condensing them into one easy to understand video. Love it 😍",
+    "textblob_score": 0.7333333333333334,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9287,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I&#39;ve been waiting for this video for years. Thanks James!!!",
+    "textblob_score": 0.690625,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.5826,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "This is a fantastic guide for beginners, better  than any other I&#39;ve seen on this platform! Thumbs up.",
+    "textblob_score": 0.5479166666666666,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7777,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Even his worse attempts look better than my best.",
+    "textblob_score": 0.3666666666666667,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6124,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Right on Time! Thank you for the video Mr. Hoffmann",
+    "textblob_score": 0.3571428571428571,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4199,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I got an espresso machine like 4 days ago after watching James for years… this is ungodly timing",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.3612,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Great video. Thank you!",
+    "textblob_score": 1.3,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.784,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Very helpful!!!  Thank you!",
+    "textblob_score": 0.48828125,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7929,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Same for me. I don&#39;t like milk in coffee but still can&#39;t stop watching you nerdily explain things, even when I have no intention of doing them.",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": -0.5927,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "How much does the technique differ, if you are working with milk whipped in french press?",
+    "textblob_score": 0.1,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "40 minutes! And it&#39;s not 240P! :D",
+    "textblob_score": 1.0,
+    "textblob_sentiment": "positive",
+    "vader_score": -0.5898,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Wait. A James Hoffman video about <b>MILK</b> ?!??",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "High quality video, medium quality art",
+    "textblob_score": 0.16,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "There are SO many tips here that I never learned about from other videos... milk temp influencing the working time of your milk, larger pitcher to get the tip closer to the coffee, etc etc. Dang this was a great video and now I just want to go home and practice.",
+    "textblob_score": 0.59375,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6597,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Or different ways to make onions",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Another tip on, er, tips, is that some home espresso machines may not have enough pressure to properly use a 3-4 hole tip. My Europiccola came with a 3-hole tip but did not have enough pressure to properly steam decent milk. Swapped it for a 1-hole tip and the increase in pressure made a big difference!",
+    "textblob_score": 0.027777777777777776,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.497,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "This is exciting!<br>When I watched your WBC video for the first time, I was surprised by the lackluster latte art. That helped me realize that it’s just not important—it’s a flourish. Good coffee and well-stretched milk are important. <br>I’m very curious to see what approach you take here.",
+    "textblob_score": 0.564,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8169,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I&#39;m using moka pot and a manual creamer/brother, needless to say, since I&#39;m not getting espresso crema, I&#39;m having very difficult time having the canvas for latte art, also the froth thing that I&#39;m not able to lock in.",
+    "textblob_score": -0.4666666666666666,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.4201,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "got my machine 2 days ago and spent the last 2 hrs flopping white blobs into dark- lightbrown stripey soup. good timing my man",
+    "textblob_score": 0.39,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4404,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I always appreciate it when James is talking about wasting less coffee or other resources.",
+    "textblob_score": -0.14583333333333331,
+    "textblob_sentiment": "negative",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "enjoyable as always mr. hoffmann nice to see your take on this topic and execution",
+    "textblob_score": 0.55,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6908,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Im so excited for this... My latte art is inconsistent, and excited to get jame&#39;s take.",
+    "textblob_score": 0.375,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.624,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Do I know how to pour latte art… yes. <br><br>Will is still watch this entire video because it’s James… yes.",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.6597,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Oooh, yes. The tulip is so sweet. Great new life goal here. Thanks! 😊",
+    "textblob_score": 0.9840909090909091,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9645,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I had just been complaining about how trash my milk steaming/art methods were, this is wonderful timing.",
+    "textblob_score": 1.0,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4404,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "For me .. practicing is a wonderful excuse to drink more coffee right now.",
+    "textblob_score": 0.43392857142857144,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6124,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Good call for the bad art but tasty drink bit. Sometimes I just want the drink, though I&#39;m mostly not doing milk drinks",
+    "textblob_score": -0.08333333333333331,
+    "textblob_sentiment": "negative",
+    "vader_score": 0.0387,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Nice—I just got my Lithium Nanofoamer the other day. 😂",
+    "textblob_score": -0.125,
+    "textblob_sentiment": "negative",
+    "vader_score": 0.4404,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "If anyone can still get their hands on the Txpresso Sproline Knife steam tips though they are discontinued, they create the most powerful steam and glossiest texture to your milk. <br><br>Legendary stuff. Always wondered about the science behind those tips!",
+    "textblob_score": 0.10000000000000002,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6689,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "my latte art is the art of making it soo tasty you dont care about the top bit",
+    "textblob_score": 0.5,
+    "textblob_sentiment": "positive",
+    "vader_score": -0.2091,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "James is latte art",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "I need to figure out how to prep the milk with the electric whisk",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Super helpful and well explained great guide for beginners. Thanks, James!",
+    "textblob_score": 1.0611111111111111,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9441,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I’ve been waiting for a guide like this from you! So happy it’s here!",
+    "textblob_score": 1.0,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8327,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Save any comments until the end of the video... Lance 😉",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.4939,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Looks nice but why put milk in the coffee",
+    "textblob_score": 0.6,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.2263,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Fantastic, thank you",
+    "textblob_score": 0.7,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7269,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Perfect timing. I&#39;m one week away from receiving my own espresso machine and need exactly this",
+    "textblob_score": 0.9166666666666667,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.5719,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Just got a NanoFoamer today, wtf is this timing",
+    "textblob_score": -0.5,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.5859,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "been waiting for this since 2020",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "This vid is peak James H!",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Take a bow, Emily!",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "I was just thinking of taking a latte art class earlier today. Here we go!👏",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "I finally figured out how to tune my coffee to pour perfect espresso with my coffee machine with different beans, thanks to James. This seems like the logical next step! Seems like the perfect time.",
+    "textblob_score": 1.25,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9392,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "thanks you mr james. your video is amazing",
+    "textblob_score": 1.0,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7717,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I never get it to work with oat milk, no matter what brand :/",
+    "textblob_score": -0.25,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.3557,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "I don&#39;t drink any milk drinks but I&#39;ll still sit through 40min of this...",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Finally the Hoffman version of Latte art. I am so rubbish at it. It doesn’t help I usually use alternate milks",
+    "textblob_score": -0.08333333333333333,
+    "textblob_sentiment": "negative",
+    "vader_score": 0.4019,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Does the advanced latte art include Starry Night?",
+    "textblob_score": 0.4,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.25,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Finally! 🔥",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": -0.4003,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Wake up honey, a new James Hoffmann video has dropped!",
+    "textblob_score": 0.17045454545454544,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "It’s like you heard me, I’ve been trying to learn this and I’m excited to see this guide! 😁",
+    "textblob_score": 0.46875,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8016,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Yay first to comment! I don’t do latte art but I do drink other people’s…",
+    "textblob_score": 0.09375,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.3595,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "just what I needed!",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Perfect video! Thank you",
+    "textblob_score": 1.3,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7574,
+    "vader_sentiment": "positive"
+  }
+]

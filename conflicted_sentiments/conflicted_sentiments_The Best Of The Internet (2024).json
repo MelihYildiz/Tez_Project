@@ -715,11 +715,6 @@
     "vader_sentiment": "negative"
   },
   {
-    "comment": "no yearly dose?",
-    "textblob_sentiment": "neutral",
-    "vader_sentiment": "negative"
-  },
-  {
     "comment": "This video is packed with hilarious work fails guaranteed to brighten your day! 😊",
     "textblob_sentiment": "negative",
     "vader_sentiment": "positive"
@@ -923,6 +918,11 @@
     "comment": "The relief that doggie must´ve felt.",
     "textblob_sentiment": "neutral",
     "vader_sentiment": "positive"
+  },
+  {
+    "comment": "did the ladie on the hot air balloon die??!!",
+    "textblob_sentiment": "positive",
+    "vader_sentiment": "negative"
   },
   {
     "comment": "The dog dragging his butt on the carpet gave me anxiety",
@@ -1170,11 +1170,6 @@
     "vader_sentiment": "positive"
   },
   {
-    "comment": "The screaming pug having a pedicure... TOO MUCH hahahahahahahaha!",
-    "textblob_sentiment": "positive",
-    "vader_sentiment": "negative"
-  },
-  {
     "comment": "Oh I&#39;ve been waiting for this ❤",
     "textblob_sentiment": "neutral",
     "vader_sentiment": "positive"
@@ -1418,11 +1413,6 @@
     "comment": "the deer is trying to do some insurince fraud",
     "textblob_sentiment": "neutral",
     "vader_sentiment": "negative"
-  },
-  {
-    "comment": "Cold bee or old beer!",
-    "textblob_sentiment": "negative",
-    "vader_sentiment": "neutral"
   },
   {
     "comment": "The sinkhole was either the field built by the lowest bidder or engineering oversight",
@@ -2030,6 +2020,11 @@
     "vader_sentiment": "positive"
   },
   {
+    "comment": "he was IMITATING Joe Biden🤣🤣🤣🤣🤣🤣🤣",
+    "textblob_sentiment": "neutral",
+    "vader_sentiment": "positive"
+  },
+  {
     "comment": "The first clip is that kid&#39;s early lesson of FAFO. ...Defiantly blow your candle out early, and recklessly swing your balloon around a hot candle wick, and things can go sideways in a hurry",
     "textblob_sentiment": "positive",
     "vader_sentiment": "neutral"
@@ -2290,6 +2285,11 @@
     "vader_sentiment": "negative"
   },
   {
+    "comment": "30 minute long!? I think I have an internet overdose",
+    "textblob_sentiment": "negative",
+    "vader_sentiment": "neutral"
+  },
+  {
     "comment": "Bro went from Twink to Baki in 2 seconds 😂😂",
     "textblob_sentiment": "neutral",
     "vader_sentiment": "positive"
@@ -2323,6 +2323,11 @@
     "comment": "Rat looks like its trying to lick its brain. Probably has rabies.",
     "textblob_sentiment": "neutral",
     "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Zeus has spoken - u r a freaking liar zaap😂",
+    "textblob_sentiment": "neutral",
+    "vader_sentiment": "negative"
   },
   {
     "comment": "Aww the owl butt from last week should be in here",
@@ -2858,11 +2863,6 @@
     "comment": "IT&#39;S FINALLY HERE 🎉",
     "textblob_sentiment": "neutral",
     "vader_sentiment": "positive"
-  },
-  {
-    "comment": "Defo first",
-    "textblob_sentiment": "positive",
-    "vader_sentiment": "neutral"
   },
   {
     "comment": "here first",

@@ -1,0 +1,182 @@
+[
+  {
+    "comment": "One factor that was kinda glossed over is the tamp strength. The instructions recommend &quot;20-30 pounds&quot; of pressure on the tamper, but I have no idea what that translates to. I&#39;ve tried pressing hard, pressing lightly, all with varying degrees of success. I can get a total extraction time of 21-24 sec, which is in the ballpark, but only about 35ml of coffee comes out for a double shot. Is that unusually low? When I try it without grounds, about 80ml of water comes out, which sounds closer to normal. Should I reprogram the machine to pump out more water? My coffee has crema, but it&#39;s not very thick.",
+    "textblob_sentiment": "neutral",
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "FYI your potato chips aren’t stale, they’re tortilla chips.",
+    "textblob_sentiment": "negative",
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I don’t even have this machine yet and this is a helpful video! Bravo!",
+    "textblob_sentiment": "neutral",
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Im still not getting a perfect shot. I weighted out my beans, &amp; im only getting 1 oz when i press the double shot option! Ive tried different settings &amp; still nothing. Im ready to give up &amp; return it. Help!!!!!",
+    "textblob_sentiment": "positive",
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Let me start off by saying thanks a lot for the video. Everything made sense, except not using Dual filters. I tried using the single and ido grind my own coffee, but I never could bring the pressure enough no matter how fine I would grind it. With dual-wall for two shots I was able to bring the pressure up to mid-espresso range while keeping the grind size at 6-8. Any suggestions?",
+    "textblob_sentiment": "positive",
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "I wish I saw this video sooner! Thank you!",
+    "textblob_sentiment": "neutral",
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "i want to buy this but feels just like you waste so much milk and espresso dialing in the shots and getting the milk throthed right.",
+    "textblob_sentiment": "neutral",
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "When do you start timing? When you push the shot button or at first drip?",
+    "textblob_sentiment": "positive",
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Which machine is this specifically? Can someone paste a link to it please? Thx",
+    "textblob_sentiment": "neutral",
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Thanks for a great video! We got out barista express two months ago and a problem we&#39;ve had with more than one bag of beans now is that it both does not pressurise, as well as spurting everywhere. Trying to troubleshoot it gives conflicting advice, people say grind finer for the lack of pressure, but grind coarser for the spurting. We have a WDT tool and keep other variables consistent. Do you know which of those grind settings it is? Or is it something else?",
+    "textblob_sentiment": "positive",
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "when it comes to the extraction time, do you incorporate the pre infusion time?  for example does 21 second include 8 or 10 sec of pre infusion?",
+    "textblob_sentiment": "negative",
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "I have a question, when you click the button the produce coffee, it takes around 5 seconds until the first drip of liquid come out. should I count the 5s into the timer?",
+    "textblob_sentiment": "positive",
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "I have the same machine, but when I make my espresso, the pressure gets to the espresso range, but it takes +-20 seconds to start dripping. and after the shot tastes sour. I&#39;m really lost.",
+    "textblob_sentiment": "neutral",
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Bro..your break down for this was 👌🏾.",
+    "textblob_sentiment": "negative",
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "ive had the breville touch for 8 months, gone through countless premium coffess from bottomless, and still cant make a good espresso.  i should&#39;ve stuck to nespresso...",
+    "textblob_sentiment": "positive",
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Do you have tips how to set up the Sage Barista Express for a &quot;normal&#39; coffee? All tutorials are for espresso (like 40 ml) but I want to make a coffee (which is around 100 ml for me). Does the extraction time still counts for 25-35 sec? Or should it be longer? And what is the starting point? The moment you press the button or the moment the coffee comes out of the piston? <br>Thank you very much!<br><br>Best beginner&#39;s tutorial I&#39;ve seen so far!",
+    "textblob_sentiment": "neutral",
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Hey Man, epic video! I&#39;m still struggling with getting the pressure right. I have tried 18g of coffee and put the grind very fine and it&#39;s still not getting enough. Should I add more coffee? I belive there is a second grind option inside the bean chamber. Does this need to be adjusted at all?",
+    "textblob_sentiment": "positive",
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "what of bitter and flowing fast 😢?",
+    "textblob_sentiment": "neutral",
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "and when you programm lets say the double espresso shot to 38 grams...you press the  button again when you reach 38 grams but it actually takes a while for the machine to stop pouring so i end up with more like 45 grams of espresso..do i have to calc that in when programming or is it actually gonna stop at 38 grams the next time?",
+    "textblob_sentiment": "neutral",
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "What grind size should I use for a single shot of espresso",
+    "textblob_sentiment": "negative",
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "I set grind on 2 and even using the pressure basket only get part way into the gray area for pressure.",
+    "textblob_sentiment": "neutral",
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "What about turning on the hot water at the beginning? The instructions say to do that before making espresso",
+    "textblob_sentiment": "positive",
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Ha! Count to 7 is exactly what I do. Actually I let my Breville Bambino Plus count for me. The pump pulses and makes a noise about every second when it’s running, so I just count to 7 like that",
+    "textblob_sentiment": "neutral",
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "10g for a single shot espresso is definitely too much. If you need that much is because you are probably grinding the coffee too coarse",
+    "textblob_sentiment": "neutral",
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Just bought this machine and tried making espresso the coffee pick after the pour was coming out soupy than dry. This video helps a lot. Thank you. I&#39;ll try the steps and the tips explained for future brewing. Cheers",
+    "textblob_sentiment": "negative",
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I want it",
+    "textblob_sentiment": "neutral",
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I have this I can’t keep the volume size on mine. Then I get coffee delivered seems to lose its pressure cause getting old.",
+    "textblob_sentiment": "neutral",
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "What a nice, informative and well explained video. You should try the greek versions of cold espresso called Freddo Espresso and Freddo Cappuccino! 😉",
+    "textblob_sentiment": "negative",
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Very informative, I also own the breville and which is weird using fresh medium roast and using 18g and yield usually 37g and extraction time is between 25-28 but it taste sour any advice please",
+    "textblob_sentiment": "neutral",
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "When you&#39;re talking about the ratio , you mean about a single dose of espresso?",
+    "textblob_sentiment": "negative",
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Thank u for this brother",
+    "textblob_sentiment": "neutral",
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Sharing this with my mom!! 😄",
+    "textblob_sentiment": "neutral",
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I never leave comments but this video literally saved me from all the confusion of this time-dose-grind situation. Thank you!",
+    "textblob_sentiment": "neutral",
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Ty this helped so much!😁",
+    "textblob_sentiment": "neutral",
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "omg I really needed this!",
+    "textblob_sentiment": "positive",
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "In short: Just return the machine and get a real one. 😊",
+    "textblob_sentiment": "neutral",
+    "vader_sentiment": "positive"
+  }
+]

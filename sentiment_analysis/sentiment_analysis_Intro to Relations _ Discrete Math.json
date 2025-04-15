@@ -1,0 +1,191 @@
+[
+  {
+    "comment": "If this was in Arabic 😭😂❤+Thanks ❤",
+    "textblob_score": 0.3,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6124,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Thank you sir. This offcourse gave conceptual understanding 🙇",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.3612,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Thanks for your tutorial it helped alot",
+    "textblob_score": 0.5,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4404,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Unbelievable clarity, thank you so much",
+    "textblob_score": -0.024999999999999994,
+    "textblob_sentiment": "negative",
+    "vader_score": 0.7184,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Textbooks are increasingly becoming less important with math teachers like this YouTube channel.",
+    "textblob_score": 0.22777777777777777,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4601,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "It’s reflexive",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Tnx a ton man ❤❤ u r a lifesaver",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.936,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "This man is the goat.",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "&quot;Let&#39;s say Alice is a weirdo and spends time shaking her own hand&quot; 😂 Brilliant!",
+    "textblob_score": 0.8,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.5411,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "This is an equivalence relation.for intuition imagine two ellipses(which you will see in every explanation of relation as a mapping pictorial representation) each containing 0 as a member.Since the relation is defined &quot;in&quot; the set {0} which means that the relation is made between the members of same set,the two sets whose members which we are going to relate are equivalent.But for convinience lets name the 1st ellipse as X and the second ellipse as Y with a known factX =Y={0}.Now, in this case 0 in X is related to 0 in Y (so all members of setA is related to itself),so it is reflexive. Since 0 in X is related to 0 in Y implies  0 in X is related to 0 in Y,it is symmetric.Since 0 in X is related to 0 in Y and 0 in X is  related to 0 in Y implies 0 in X is related to 0 in Y, it is transitive.Therefore it is an equivalence relation🎉",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.4019,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Thanks Sean!<br><br> btw I think there is a equivalence relation because it satisfies all three properties. <br>for all x in A (x,x) is in the relation, <br>Since we only have one element in the set, which is just a pair of zero&#39;s then we will have symmetry since both the first and last entry of the pair are the same, <br>We fufill the transitive property automatically since there is only one element in the relation.",
+    "textblob_score": 0.375,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7177,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Hey lovely video and a second question: if we let A = {} do we then say that bill set is an equivalence relation because all three properties are vacuously true? Or is it a non starter since we can’t create an actual relation so no relation exists ? Or can the null set be a subset of null set X null set? Cuz then we can say R = {} also! Right?",
+    "textblob_score": 0.22714285714285715,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7956,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Absolute stunner of a video 🙏🏻 so for this new question I have on this new video (I also asked two on the equivalence relations video), what do you mean by vacuously true transitively? What would be a reflexive that’s vacuously true or a symmetric that’s vacumously true? Thanks kind god!",
+    "textblob_score": 0.5400252525252525,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9473,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "How did you say cream shaft with a straight face bahahah 🙌",
+    "textblob_score": 0.2,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.2263,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "my best math teacher ever, i watch every videos and i understand them all. Deadass there should be more recognition for him.",
+    "textblob_score": 0.75,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6369,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Thank you so much for this detailed explanation! This is a lot better than what my professor explains in class. Thanks!",
+    "textblob_score": 0.6625,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8353,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I understood everything up until the transitive part in (0,0). I do not know where this comment section keeps getting the non-existent extra (0,0) from",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Mr. Shawn, please make a video on how to calculate all possible relations of a given non-empty set; additionally, how to calculate all possible, minimum and maximum reflexive, symmetric, transitive, identity relations.",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.3182,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "This definition of relation is often given, but has drawbacks. Consider the pair-set R={(a,a)}. We can work out if it&#39;s transitive, symmetric, or irreflexive just by looking at it, so those are genuine properties of a relation defined that way. But we cannot know if it&#39;s reflexive or surjective without specifying a context, because {(a,a)} is a subset of infinitely many Cartesian products. So reflexivity and surjectivity are not properties of R. For example, R is reflexive wrt {a}, but not wrt {a,b}. <br><br>A better definition of relation is as a triple (X,Y,P), where the pair-set P is a subset of XxY. Then reflexivity and surjectivity can be specified as properties of the relation, since the &quot;context&quot; Cartesian product is part of the object used to represent the relation.",
+    "textblob_score": 0.4666666666666666,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.5927,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "THIS WAS SO EASILY EXPLAINED! THANK YOU!",
+    "textblob_score": 0.6770833333333335,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7553,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "This is explained well. It is an important topic which leads to deeper mathematics topics.",
+    "textblob_score": 0.4,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.4404,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "it looks reflexve",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "We let A = {0} and R = { (0,0) }. The relation R is an equivalence relation because:\r<br>R is reflexive: for a ϵ A, (a, a) ϵ R,\r<br>R is symmetric: for a, b ϵ A, if (a, b) ϵ R then (b, a) ϵ R, and\r<br>R is transitive: for a, b, c ϵ A, if (a, b), (b, c) ϵ R then (a, c) ϵ R.",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Thx for this helpful video. I have a test on this today and I was baffled trying to read the book.😁",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.8074,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "maybe you could talk about partial order and total order sets ? It&#39;s in the same theme ( and to be honest, I didn&#39;t fully understand it and you&#39;re the best maths teacher on the net, so... pls ? :) )",
+    "textblob_score": 0.2857142857142857,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.9034,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "I think the relation on the set A ={0} does satisfy the equivalence class because if you take the (&lt;+=) operator it should satisfy reflexivity, transitivity and symmetry all together.",
+    "textblob_score": 0.5,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7184,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Cream Shaft",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  }
+]

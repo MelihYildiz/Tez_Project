@@ -1,0 +1,32 @@
+[
+  {
+    "comment": "Thank you sir. This offcourse gave conceptual understanding 🙇",
+    "textblob_sentiment": "neutral",
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Unbelievable clarity, thank you so much",
+    "textblob_sentiment": "negative",
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Tnx a ton man ❤❤ u r a lifesaver",
+    "textblob_sentiment": "neutral",
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "This is an equivalence relation.for intuition imagine two ellipses(which you will see in every explanation of relation as a mapping pictorial representation) each containing 0 as a member.Since the relation is defined &quot;in&quot; the set {0} which means that the relation is made between the members of same set,the two sets whose members which we are going to relate are equivalent.But for convinience lets name the 1st ellipse as X and the second ellipse as Y with a known factX =Y={0}.Now, in this case 0 in X is related to 0 in Y (so all members of setA is related to itself),so it is reflexive. Since 0 in X is related to 0 in Y implies  0 in X is related to 0 in Y,it is symmetric.Since 0 in X is related to 0 in Y and 0 in X is  related to 0 in Y implies 0 in X is related to 0 in Y, it is transitive.Therefore it is an equivalence relation🎉",
+    "textblob_sentiment": "neutral",
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Mr. Shawn, please make a video on how to calculate all possible relations of a given non-empty set; additionally, how to calculate all possible, minimum and maximum reflexive, symmetric, transitive, identity relations.",
+    "textblob_sentiment": "neutral",
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Thx for this helpful video. I have a test on this today and I was baffled trying to read the book.😁",
+    "textblob_sentiment": "neutral",
+    "vader_sentiment": "positive"
+  }
+]
