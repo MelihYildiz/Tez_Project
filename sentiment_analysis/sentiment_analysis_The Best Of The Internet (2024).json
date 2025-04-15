@@ -231,13 +231,6 @@
     "vader_sentiment": "neutral"
   },
   {
-    "comment": "&quot;You&#39;re not for the streets purrcilla&quot;🗣🗣🗣🗣🗣🗣🗣🗣🗣🗣🗣🔥🔥🔥🔥🔥🔥🔥🔥",
-    "textblob_score": 0.0,
-    "textblob_sentiment": "neutral",
-    "vader_score": -0.9451,
-    "vader_sentiment": "negative"
-  },
-  {
     "comment": "The reason the mouse is rolling is thats what they do when they&#39;re poisoned.<br>And this one knows a preditor won&#39;t take a sick animal.<br>It&#39;s really clever how it figured that out.",
     "textblob_score": -0.27380952380952384,
     "textblob_sentiment": "negative",
@@ -490,6 +483,13 @@
     "vader_sentiment": "negative"
   },
   {
+    "comment": "that hampsters scream made me laugh so haaaaaaarrrrrd!!!!!!!!!111🤣",
+    "textblob_score": 0.3,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7405,
+    "vader_sentiment": "positive"
+  },
+  {
     "comment": "Yearly Dose Of Internet.",
     "textblob_score": 0.0,
     "textblob_sentiment": "neutral",
@@ -609,6 +609,13 @@
     "vader_sentiment": "positive"
   },
   {
+    "comment": "BRO I LIKE EVERY VIDEO ❤ 🎉 YOU ARE SOOO<br> COOOLLL",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.8788,
+    "vader_sentiment": "positive"
+  },
+  {
     "comment": "I needed this laugh today 😂",
     "textblob_score": 0.3,
     "textblob_sentiment": "positive",
@@ -721,13 +728,6 @@
     "vader_sentiment": "positive"
   },
   {
-    "comment": "&quot;This&quot; cat is evil...?😂",
-    "textblob_score": 0.0,
-    "textblob_sentiment": "neutral",
-    "vader_score": -0.3612,
-    "vader_sentiment": "negative"
-  },
-  {
     "comment": "Internet got so good in 2024 ngl",
     "textblob_score": 1.0,
     "textblob_sentiment": "positive",
@@ -770,6 +770,13 @@
     "vader_sentiment": "neutral"
   },
   {
+    "comment": "LITTLE GIRL WHO WANTS TO BE PREGNANT = BAD FAMILY EXAMPLES.",
+    "textblob_score": -0.3885416666666666,
+    "textblob_sentiment": "negative",
+    "vader_score": -0.6408,
+    "vader_sentiment": "negative"
+  },
+  {
     "comment": "Kid getting angry because his mom said he got scared has issues 😂😂😂",
     "textblob_score": -0.5,
     "textblob_sentiment": "negative",
@@ -785,6 +792,13 @@
   },
   {
     "comment": "It was 2$",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "I once selled a donut",
     "textblob_score": 0.0,
     "textblob_sentiment": "neutral",
     "vader_score": 0.0,
@@ -1131,13 +1145,6 @@
     "textblob_score": 0.2,
     "textblob_sentiment": "positive",
     "vader_score": 0.4939,
-    "vader_sentiment": "positive"
-  },
-  {
-    "comment": "The burping guy🤣🎉",
-    "textblob_score": 0.0,
-    "textblob_sentiment": "neutral",
-    "vader_score": 0.7096,
     "vader_sentiment": "positive"
   },
   {
@@ -1946,6 +1953,13 @@
     "vader_sentiment": "neutral"
   },
   {
+    "comment": "Hi I’m not EWOS412",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
     "comment": "ayo that lil girl at the kindergarden graduation is wylin lmfao",
     "textblob_score": 0.0,
     "textblob_sentiment": "neutral",
@@ -2524,6 +2538,13 @@
     "textblob_score": 0.0,
     "textblob_sentiment": "neutral",
     "vader_score": -0.3182,
+    "vader_sentiment": "negative"
+  },
+  {
+    "comment": "no yearly dose?",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": -0.296,
     "vader_sentiment": "negative"
   },
   {
@@ -3388,13 +3409,6 @@
     "vader_sentiment": "positive"
   },
   {
-    "comment": "The dog screen 😂😂😂",
-    "textblob_score": 0.0,
-    "textblob_sentiment": "neutral",
-    "vader_score": 0.8271,
-    "vader_sentiment": "positive"
-  },
-  {
     "comment": "The narration is the only boring thing about this awesome compilation 🥲",
     "textblob_score": 0.0,
     "textblob_sentiment": "neutral",
@@ -4102,13 +4116,6 @@
     "vader_sentiment": "positive"
   },
   {
-    "comment": "ITS HALF AN HOUR NOW",
-    "textblob_score": -0.16666666666666666,
-    "textblob_sentiment": "negative",
-    "vader_score": 0.0,
-    "vader_sentiment": "neutral"
-  },
-  {
     "comment": "I have doubts on the human dog scream",
     "textblob_score": 0.0,
     "textblob_sentiment": "neutral",
@@ -4228,18 +4235,18 @@
     "vader_sentiment": "positive"
   },
   {
+    "comment": "The screaming pug having a pedicure... TOO MUCH hahahahahahahaha!",
+    "textblob_score": 0.25,
+    "textblob_sentiment": "positive",
+    "vader_score": -0.4389,
+    "vader_sentiment": "negative"
+  },
+  {
     "comment": "that no-handed bear is a thing of nightmares",
     "textblob_score": 0.0,
     "textblob_sentiment": "neutral",
     "vader_score": 0.0,
     "vader_sentiment": "neutral"
-  },
-  {
-    "comment": "Best cartwheel ever 😂",
-    "textblob_score": 1.0,
-    "textblob_sentiment": "positive",
-    "vader_score": 0.7964,
-    "vader_sentiment": "positive"
   },
   {
     "comment": "WOW - that artwork is AMAZING!!!!!",
@@ -4268,13 +4275,6 @@
     "textblob_sentiment": "neutral",
     "vader_score": 0.6369,
     "vader_sentiment": "positive"
-  },
-  {
-    "comment": "The &quot;i wanna be pregnant girl&quot; never stops impressing me... unfortunaly",
-    "textblob_score": 0.3333333333333333,
-    "textblob_sentiment": "positive",
-    "vader_score": -0.3412,
-    "vader_sentiment": "negative"
   },
   {
     "comment": "if i was rencarnated as a bird thats what i would be doing at 7 in the morning",
@@ -4746,6 +4746,13 @@
     "vader_sentiment": "negative"
   },
   {
+    "comment": "This year: skibidi sigma boy",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
     "comment": "The baby break dancer has to be fake",
     "textblob_score": -0.5,
     "textblob_sentiment": "negative",
@@ -5040,13 +5047,6 @@
     "vader_sentiment": "neutral"
   },
   {
-    "comment": "Best Youtuber, bar none.",
-    "textblob_score": 1.0,
-    "textblob_sentiment": "positive",
-    "vader_score": 0.6369,
-    "vader_sentiment": "positive"
-  },
-  {
     "comment": "The Cold Bee/Old Beer bit was filmed in Lannon, Wisconsin.",
     "textblob_score": -0.6,
     "textblob_sentiment": "negative",
@@ -5145,6 +5145,13 @@
     "vader_sentiment": "negative"
   },
   {
+    "comment": "Cold bee or old beer!",
+    "textblob_score": -0.2375,
+    "textblob_sentiment": "negative",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
     "comment": "The little girl picking up her little sister by the head gets me every time. Pfft, lmao! 🤣",
     "textblob_score": 0.125,
     "textblob_sentiment": "positive",
@@ -5185,6 +5192,13 @@
     "textblob_sentiment": "neutral",
     "vader_score": 0.0,
     "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Fun fact: You can &#39;double tap&#39; a comment to like it. 😀",
+    "textblob_score": 0.3,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.8074,
+    "vader_sentiment": "positive"
   },
   {
     "comment": "Can&#39;t believe it&#39;s another year! time flies. Thanks for another great year of laughter and joy, daily dose of internet!",
@@ -5388,6 +5402,13 @@
     "textblob_sentiment": "neutral",
     "vader_score": -0.3353,
     "vader_sentiment": "negative"
+  },
+  {
+    "comment": "<b>I love you all.</b>",
+    "textblob_score": 0.5,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6369,
+    "vader_sentiment": "positive"
   },
   {
     "comment": "most of these are not from 2024, but whatever",
@@ -6301,6 +6322,13 @@
   },
   {
     "comment": "the year of pets",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "‘I KNOW HOW TO DO A CARTWEEL!’<br>……<br>SPLAT",
     "textblob_score": 0.0,
     "textblob_sentiment": "neutral",
     "vader_score": 0.0,
@@ -7504,13 +7532,6 @@
     "vader_sentiment": "negative"
   },
   {
-    "comment": "Give me smiling dogs any day.",
-    "textblob_score": 0.0,
-    "textblob_sentiment": "neutral",
-    "vader_score": 0.4588,
-    "vader_sentiment": "positive"
-  },
-  {
     "comment": "Why did the bear have no arms? Chemicals? Poor bear.",
     "textblob_score": -0.4,
     "textblob_sentiment": "negative",
@@ -7665,13 +7686,6 @@
     "vader_sentiment": "positive"
   },
   {
-    "comment": "he was IMITATING Joe Biden🤣🤣🤣🤣🤣🤣🤣",
-    "textblob_score": 0.0,
-    "textblob_sentiment": "neutral",
-    "vader_score": 0.9698,
-    "vader_sentiment": "positive"
-  },
-  {
     "comment": "You already know the year is coming to an end when Daily Dose uploads a best of the internet video",
     "textblob_score": 0.5,
     "textblob_sentiment": "positive",
@@ -7732,13 +7746,6 @@
     "textblob_score": 0.275,
     "textblob_sentiment": "positive",
     "vader_score": 0.9443,
-    "vader_sentiment": "positive"
-  },
-  {
-    "comment": "Too mANY U G L Y.  M U TTS",
-    "textblob_score": 0.5,
-    "textblob_sentiment": "positive",
-    "vader_score": 0.5766,
     "vader_sentiment": "positive"
   },
   {
@@ -8722,13 +8729,6 @@
     "vader_sentiment": "neutral"
   },
   {
-    "comment": "Zeus has spoken - u r a freaking liar zaap😂",
-    "textblob_score": 0.0,
-    "textblob_sentiment": "neutral",
-    "vader_score": -0.4939,
-    "vader_sentiment": "negative"
-  },
-  {
     "comment": "Thanks for hooking us up with a good time during the dark times Daily Dose!",
     "textblob_score": 0.7874999999999999,
     "textblob_sentiment": "positive",
@@ -8804,13 +8804,6 @@
     "textblob_sentiment": "neutral",
     "vader_score": 0.0,
     "vader_sentiment": "neutral"
-  },
-  {
-    "comment": "Happy birthday-day I forgot",
-    "textblob_score": 0.8,
-    "textblob_sentiment": "positive",
-    "vader_score": 0.5719,
-    "vader_sentiment": "positive"
   },
   {
     "comment": "Everybody gangsta till&#39; he makes a decadely dose of the internet.",
@@ -8930,6 +8923,13 @@
     "textblob_sentiment": "neutral",
     "vader_score": 0.0,
     "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "Video: best of 2024<br>&quot;I need an egg&quot; video: &quot;posted in 2022&quot;",
+    "textblob_score": 1.0,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.6369,
+    "vader_sentiment": "positive"
   },
   {
     "comment": "That poor gator gonna die cause of dumb people",
@@ -9273,13 +9273,6 @@
     "textblob_sentiment": "positive",
     "vader_score": 0.8434,
     "vader_sentiment": "positive"
-  },
-  {
-    "comment": "I need an interlude.",
-    "textblob_score": 0.0,
-    "textblob_sentiment": "neutral",
-    "vader_score": 0.0,
-    "vader_sentiment": "neutral"
   },
   {
     "comment": "The rat was praying for an arch",
@@ -9884,13 +9877,6 @@
     "vader_sentiment": "negative"
   },
   {
-    "comment": "I cant believe 2025 is soon",
-    "textblob_score": 0.0,
-    "textblob_sentiment": "neutral",
-    "vader_score": 0.0,
-    "vader_sentiment": "neutral"
-  },
-  {
     "comment": "Hello everyone, this is your YEARLY dose of internet! 🎉",
     "textblob_score": 0.0,
     "textblob_sentiment": "neutral",
@@ -10486,6 +10472,13 @@
     "vader_sentiment": "neutral"
   },
   {
+    "comment": "MORE YEARLY DOSE OF INTERNET!!!",
+    "textblob_score": 0.9765625,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
     "comment": "time flies by",
     "textblob_score": 0.0,
     "textblob_sentiment": "neutral",
@@ -10794,13 +10787,6 @@
     "vader_sentiment": "positive"
   },
   {
-    "comment": "Any one from Deutschland",
-    "textblob_score": 0.0,
-    "textblob_sentiment": "neutral",
-    "vader_score": 0.0,
-    "vader_sentiment": "neutral"
-  },
-  {
     "comment": "This year was wild. Hope everyone had a great year, and if not, then 2025 will be the one for you :).",
     "textblob_score": 0.7666666666666666,
     "textblob_sentiment": "positive",
@@ -10913,18 +10899,18 @@
     "vader_sentiment": "negative"
   },
   {
-    "comment": "<a href=\"UCkszU2WH9gy1mb0dV-11UJg/KsIfY6LzFoLM6AKanYDQAg\"></a>",
-    "textblob_score": 0.0,
-    "textblob_sentiment": "neutral",
-    "vader_score": 0.0,
-    "vader_sentiment": "neutral"
-  },
-  {
     "comment": "IT&#39;S FINALLY HERE 🎉",
     "textblob_score": 0.0,
     "textblob_sentiment": "neutral",
     "vader_score": 0.4019,
     "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Defo first",
+    "textblob_score": 0.25,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
   },
   {
     "comment": "Christmas came early.",
@@ -11061,6 +11047,20 @@
   },
   {
     "comment": "Its out!",
+    "textblob_score": 0.0,
+    "textblob_sentiment": "neutral",
+    "vader_score": 0.0,
+    "vader_sentiment": "neutral"
+  },
+  {
+    "comment": "HAPPY NEW YEARS!! &amp;MWRRY CHRISTMAS",
+    "textblob_score": 0.506534090909091,
+    "textblob_sentiment": "positive",
+    "vader_score": 0.7199,
+    "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Lessgooooo it’s out",
     "textblob_score": 0.0,
     "textblob_sentiment": "neutral",
     "vader_score": 0.0,

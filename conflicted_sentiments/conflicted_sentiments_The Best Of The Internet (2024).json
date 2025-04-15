@@ -45,11 +45,6 @@
     "vader_sentiment": "positive"
   },
   {
-    "comment": "&quot;You&#39;re not for the streets purrcilla&quot;🗣🗣🗣🗣🗣🗣🗣🗣🗣🗣🗣🔥🔥🔥🔥🔥🔥🔥🔥",
-    "textblob_sentiment": "neutral",
-    "vader_sentiment": "negative"
-  },
-  {
     "comment": "The reason the mouse is rolling is thats what they do when they&#39;re poisoned.<br>And this one knows a preditor won&#39;t take a sick animal.<br>It&#39;s really clever how it figured that out.",
     "textblob_sentiment": "negative",
     "vader_sentiment": "neutral"
@@ -165,6 +160,11 @@
     "vader_sentiment": "positive"
   },
   {
+    "comment": "BRO I LIKE EVERY VIDEO ❤ 🎉 YOU ARE SOOO<br> COOOLLL",
+    "textblob_sentiment": "neutral",
+    "vader_sentiment": "positive"
+  },
+  {
     "comment": "Decent but a standard video. Nothing remarkable.",
     "textblob_sentiment": "positive",
     "vader_sentiment": "negative"
@@ -193,11 +193,6 @@
     "comment": "The white dude saying he didn&#39;t strike me though,killed me 😂😂😂",
     "textblob_sentiment": "neutral",
     "vader_sentiment": "positive"
-  },
-  {
-    "comment": "&quot;This&quot; cat is evil...?😂",
-    "textblob_sentiment": "neutral",
-    "vader_sentiment": "negative"
   },
   {
     "comment": "That fire truck was Tokyo drifting",
@@ -286,11 +281,6 @@
   },
   {
     "comment": "HELP IM GIGGLING",
-    "textblob_sentiment": "neutral",
-    "vader_sentiment": "positive"
-  },
-  {
-    "comment": "The burping guy🤣🎉",
     "textblob_sentiment": "neutral",
     "vader_sentiment": "positive"
   },
@@ -715,6 +705,11 @@
     "vader_sentiment": "negative"
   },
   {
+    "comment": "no yearly dose?",
+    "textblob_sentiment": "neutral",
+    "vader_sentiment": "negative"
+  },
+  {
     "comment": "This video is packed with hilarious work fails guaranteed to brighten your day! 😊",
     "textblob_sentiment": "negative",
     "vader_sentiment": "positive"
@@ -940,11 +935,6 @@
     "vader_sentiment": "positive"
   },
   {
-    "comment": "The dog screen 😂😂😂",
-    "textblob_sentiment": "neutral",
-    "vader_sentiment": "positive"
-  },
-  {
     "comment": "The narration is the only boring thing about this awesome compilation 🥲",
     "textblob_sentiment": "neutral",
     "vader_sentiment": "positive"
@@ -1110,11 +1100,6 @@
     "vader_sentiment": "positive"
   },
   {
-    "comment": "ITS HALF AN HOUR NOW",
-    "textblob_sentiment": "negative",
-    "vader_sentiment": "neutral"
-  },
-  {
     "comment": "I have doubts on the human dog scream",
     "textblob_sentiment": "neutral",
     "vader_sentiment": "negative"
@@ -1170,14 +1155,14 @@
     "vader_sentiment": "positive"
   },
   {
+    "comment": "The screaming pug having a pedicure... TOO MUCH hahahahahahahaha!",
+    "textblob_sentiment": "positive",
+    "vader_sentiment": "negative"
+  },
+  {
     "comment": "Oh I&#39;ve been waiting for this ❤",
     "textblob_sentiment": "neutral",
     "vader_sentiment": "positive"
-  },
-  {
-    "comment": "The &quot;i wanna be pregnant girl&quot; never stops impressing me... unfortunaly",
-    "textblob_sentiment": "positive",
-    "vader_sentiment": "negative"
   },
   {
     "comment": "Im choked while I was watching that racoon geez I teared up",
@@ -1413,6 +1398,11 @@
     "comment": "the deer is trying to do some insurince fraud",
     "textblob_sentiment": "neutral",
     "vader_sentiment": "negative"
+  },
+  {
+    "comment": "Cold bee or old beer!",
+    "textblob_sentiment": "negative",
+    "vader_sentiment": "neutral"
   },
   {
     "comment": "The sinkhole was either the field built by the lowest bidder or engineering oversight",
@@ -1975,11 +1965,6 @@
     "vader_sentiment": "positive"
   },
   {
-    "comment": "Give me smiling dogs any day.",
-    "textblob_sentiment": "neutral",
-    "vader_sentiment": "positive"
-  },
-  {
     "comment": "Controversial opinion: you shouldn&#39;t prank kids who are too young to understand what a prank is",
     "textblob_sentiment": "positive",
     "vader_sentiment": "negative"
@@ -2016,11 +2001,6 @@
   },
   {
     "comment": "Oh to be a rat playing in the rain",
-    "textblob_sentiment": "neutral",
-    "vader_sentiment": "positive"
-  },
-  {
-    "comment": "he was IMITATING Joe Biden🤣🤣🤣🤣🤣🤣🤣",
     "textblob_sentiment": "neutral",
     "vader_sentiment": "positive"
   },
@@ -2323,11 +2303,6 @@
     "comment": "Rat looks like its trying to lick its brain. Probably has rabies.",
     "textblob_sentiment": "neutral",
     "vader_sentiment": "positive"
-  },
-  {
-    "comment": "Zeus has spoken - u r a freaking liar zaap😂",
-    "textblob_sentiment": "neutral",
-    "vader_sentiment": "negative"
   },
   {
     "comment": "Aww the owl butt from last week should be in here",
@@ -2775,6 +2750,11 @@
     "vader_sentiment": "positive"
   },
   {
+    "comment": "MORE YEARLY DOSE OF INTERNET!!!",
+    "textblob_sentiment": "positive",
+    "vader_sentiment": "neutral"
+  },
+  {
     "comment": "Pro tip: Double tapping a comment gives it a like!",
     "textblob_sentiment": "neutral",
     "vader_sentiment": "positive"
@@ -2863,6 +2843,11 @@
     "comment": "IT&#39;S FINALLY HERE 🎉",
     "textblob_sentiment": "neutral",
     "vader_sentiment": "positive"
+  },
+  {
+    "comment": "Defo first",
+    "textblob_sentiment": "positive",
+    "vader_sentiment": "neutral"
   },
   {
     "comment": "here first",
