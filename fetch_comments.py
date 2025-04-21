@@ -7,9 +7,10 @@ from remove_duplicates import remove_duplicates
 from lang_detect import is_english
 from sentiment_analysis import textblob_sentiment_analysis
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+from summarizer import summarize_comments_in_chunks
 
 API_KEY = "AIzaSyBwwuw4D_3rRzDIpEPNWakn9JY6I4dh2_g"
-video_ids = ["lC9emrW0F2o"]
+video_ids = ["N6BJVM5tvnw"]
 analyzer = SentimentIntensityAnalyzer()
 
 def fetch_video_title(video_id, api_key):
@@ -114,6 +115,14 @@ def process_video(video_id, api_key):
         negative_count = sum(1 for r in sentiment_results if r["textblob_sentiment"] == "negative")
         neutral_count = sum(1 for r in sentiment_results if r["textblob_sentiment"] == "neutral")
 
+        # Comment Summary Generation
+        summary = summarize_comments_in_chunks(english_comments)
+        summary_data = {
+            "video_title": title,
+            "summary": summary
+        }
+        save_json_to_folder(summary_data, f"summary_{sanitize_filename(title)}.json", "summaries")
+
         print(f"\n[PROCESS COMPLETED] Video: {title}")
         print(f"  Total comments: {total_comments}")
         print(f"  Clean comments: {len(cleaned_comments)}")
@@ -122,6 +131,9 @@ def process_video(video_id, api_key):
         print(f"  Positive: {positive_count} | Negative: {negative_count} | Neutral: {neutral_count}")
         print(f"  Sentiment results saved to 'sentiment_analysis/{sentiment_output_file}'")
         print(f"  Conflicted results saved to 'conflicted_sentiments/{conflict_output_file}'")
+        print(f"  Summary saved to 'summaries/summary_{sanitize_filename(title)}.json'")
+        print(f"  ▶ Summary:\n  {summary}")
+
     except Exception as e:
         print(f"[ERROR] Error processing video ID {video_id}: {e}")
 
